@@ -26,7 +26,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -78,10 +78,10 @@ analytics:
 # Site Author
 author:
   name             : "Sandesh Bhat"
-  avatar           : "sandesh.jpg"
+  avatar           : "profile.png" #"sandesh.jpg"
   bio              : "Ph.D. candidate, System Engineering program, Ira A. Fulton School of Engineering, Arizona State University"
   location         : "Phoenix, Arizona, USA"
-  employer         : 
+  employer         : "Research Assistant, Arizona State University"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
   email            : "sandesh.bhat@asu.edu"
   uri              : 
@@ -303,4 +303,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-merlot
+#theme: jekyll-theme-merlot
