@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Sandesh Bhat"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "Ph.D. student, Computer Science Department, Stanford University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sandesh Bhat"
+description              : &description "Ph.D. candidate, System Engineering program, Ira A. Fulton School of Engineering, Arizona State University"
+url                      : https://mrsandeshbhat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LantaoYu/lantaoyu.github.io"
+repository               : "mrsandeshbhat/mrsandeshbhat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
+  name             : "Sandesh Bhat"
   avatar           : "lantaoyu.jpg"
-  bio              : "Ph.D. student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  bio              : "Ph.D. candidate, System Engineering program, Ira A. Fulton School of Engineering, Arizona State University"
+  location         : "Phoenix, Arizona, USA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@cs.stanford.edu"
+  email            : "sandesh.bhat@asu.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : "mrsandeshbhat"
   google_plus      :
   keybase          :
   instagram        : 
