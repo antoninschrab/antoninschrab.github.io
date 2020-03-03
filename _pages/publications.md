@@ -18,7 +18,7 @@ Thao Le, <i><b>Sandesh G Bhat</b></i>, Susheelkumar C Subramanian, Peter MB Wasw
 <br>
 <b>[Volitional control of an active prosthetic ankle: a survey](http://mrsandeshbhat.github.io/publications/IRAJsurvey)</b> <br> 
 <i><b>Sandesh G Bhat</b></i>, Sangram Redkar.
-<i>ASME 2018 International Mechanical Engineering Congress and Exposition</i>. <b>IMECE 2018</b>.
+<i>International Robotics &amp; Automation Journal</i>. <b>IRATJ 2018</b>.
 <br>
 <br>
 <b>[Design and Development of an Unmanned Underwater Vehicle (UUV) in the Form of a Cuttlefish](http://mrsandeshbhat.github.io/publications/IMECEuuv)</b> <br> 
