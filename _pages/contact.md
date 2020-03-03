@@ -4,7 +4,11 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Address 1<br>
+Address 2<br>
 
+Email: sandesh.bhat [at] asu.edu
+
+LinkedIn: https://www.linkedin.com/in/mrsandeshbhat
+
+<!-- <embed src="https://www.linkedin.com/in/mrsandeshbhat" width="650" height="1800" type='application/pdf'> -->
