@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Sandesh Bhat"
-  avatar           : "profile.png" #"sandesh.jpg"
+  avatar           : "sandesh.jpg"
   bio              : "Ph.D. candidate, System Engineering program, Ira A. Fulton School of Engineering, Arizona State University"
   location         : "Phoenix, Arizona, USA"
   employer         : "Arizona State University"

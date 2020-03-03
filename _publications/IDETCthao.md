@@ -1,7 +1,7 @@
 ---
 title: "Design and Analysis of an Auto-Parametrically Excited Platform for Active Vibration Control"
 collection: publications
-permalink: /publication/IDETCthao
+permalink: /publications/IDETCthao
 date: 2019-08-18
 venue: 'International Design Engineering Technical Conferences and Computers and Information in Engineering Conference'
 citation: 'Thao Le, <i><b>Sandesh G Bhat</b></i>, Susheelkumar C Subramanian, Peter MB Waswa, Sangram Redkar.'
