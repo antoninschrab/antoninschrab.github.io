@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/WearRA
 date: 2019-03-25
 venue: 'IEEE Wearable Robotics Association Conference'
-citation: 'Sandesh G Bhat, Susheelkumar Cherangara, Jason Olson, Sangram Redkar, Thomas G Sugar'
+citation: '<b><i>Sandesh G Bhat</i></b>, Susheelkumar Cherangara, Jason Olson, Sangram Redkar, Thomas G Sugar'
 ---
 
 [[Proceeding]](http://mrsandeshbhat.github.io/files/WearRAcon_trunk.pdf)
