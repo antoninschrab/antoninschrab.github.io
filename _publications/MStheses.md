@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MStheses
 date: 2017-12-20
 venue: 'Master of Science Theses, Arizona State University'
-citation: 'Bhat, S. G., Redkar, S., &amp; Sugar, T. G. (2018, January). Development of a Passive Prosthetic Ankle With Slope Adapting Capabilities. In ASME 2018 International Mechanical Engineering Congress and Exposition. American Society of Mechanical Engineers Digital Collection.'
+citation: '<i><b>Sandesh G Bhat</b></i>.'
 ---
 
 [[Theses]](https://repository.asu.edu/attachments/194015/content/Bhat_asu_0010N_17430.pdf)
