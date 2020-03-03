@@ -17,20 +17,21 @@ Thao Le, <i><b>Sandesh G Bhat</b></i>, Susheelkumar C Subramanian, Peter MB Wasw
 <br>
 <br>
 <b>[Volitional control of an active prosthetic ankle: a survey](http://mrsandeshbhat.github.io/publications/IRAJsurvey)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>, Sangram Redkar.
+<i><b>Sandesh G Bhat</b></i>, Sangram Redkar.<br>
 <i>International Robotics &amp; Automation Journal</i>. <b>IRATJ 2018</b>.
 <br>
 <br>
 <b>[Design and Development of an Unmanned Underwater Vehicle (UUV) in the Form of a Cuttlefish](http://mrsandeshbhat.github.io/publications/IMECEuuv)</b> <br> 
-Susheelkumar Cherangara Subramanian, Thao Le, Jason Olson, <i><b>Sandesh G Bhat</b></i>, Sangram Redkar.
+Susheelkumar Cherangara Subramanian, Thao Le, Jason Olson, <i><b>Sandesh G Bhat</b></i>, Sangram Redkar.<br>
 <i>ASME 2018 International Mechanical Engineering Congress and Exposition</i>. <b>IMECE 2018</b>.
 <br>
 <br>
 <b>[Development of a Passive Prosthetic Ankle With Slope Adapting Capabilities](http://mrsandeshbhat.github.io/publications/IMECEankle)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>, Sangram Redkar, Thomas G Sugar.
+<i><b>Sandesh G Bhat</b></i>, Sangram Redkar, Thomas G Sugar.<br>
 <i>ASME 2018 International Mechanical Engineering Congress and Exposition</i>. <b>IMECE 2018</b>.
 <br>
 <br>
 <b>[Design and Development of a Passive Prosthetic Ankle](http://mrsandeshbhat.github.io/publications/MStheses)</b> <br> 
 <i><b>Sandesh G Bhat</b></i>.<br>
 <i>Master of Science Theses, Arizona State University</i>.
+<br>
