@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Sandesh G. Bhat"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Sandesh G. Bhat"
+description              : &description "I am a Ph.D. candidate at the Ira A. Fulton School of Engineering, Arizona State University."
 url                      : http://mrsandeshbhat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mrsandeshbhat/mrsandeshbhat.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Sandesh G. Bhat"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : #"profile.png"
+  bio              : "I am a Ph.D. candidate at the Ira A. Fulton School of Engineering, Arizona State University. I research robotics and dynamics as applied to human gait rehabilitation systems."
   location         : "Phoenix, AZ, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en&oi=ao"
   email            : "mrsandeshbhat@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "http://www.linkedin.com/in/mrsandeshbhat"
-  orcid            : "http://orcid.org/0000-0002-8989-0235"
+  linkedin         : "https://www.linkedin.com/in/mrsandeshbhat"
+  orcid            : "https://orcid.org/0000-0002-8989-0235"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
