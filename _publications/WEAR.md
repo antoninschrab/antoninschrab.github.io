@@ -1,7 +1,7 @@
 ---
 title: "Analysis of a periodic force applied to the trunk to assist walking gait"
 collection: publications
-permalink: /publications/WEARperiodic
+permalink: /publications/WEAR
 date: 2019-03-25
 venue: 'IEEE Wearable Robotics Association Conference'
 citation: '<i><b>Sandesh G Bhat</b></i>, Susheelkumar Cherangara, Jason Olson, Sangram Redkar, Thomas G. Sugar.'
