@@ -1,7 +1,7 @@
 ---
 title: "Design and Development of a Passive Prosthetic Ankle"
 collection: publications
-permalink: /publication/MStheses
+permalink: /publications/MStheses
 date: 2017-12-20
 venue: 'Master of Science Theses, Arizona State University'
 citation: '<i><b>Sandesh G Bhat</b></i>.'
