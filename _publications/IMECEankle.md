@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/IMECEankle
 venue: "ASME International Mechanical Engineering Congress and Exposition"
 date: 2018-01-01
-citation: '<bi>Sandesh G Bhat</bi>, Sangram Redkar, Thomas G Sugar.'
+citation: '<b><i>Sandesh G Bhat</b></i>, Sangram Redkar, Thomas G Sugar.'
 ---
 
 [[Proceeding]](http://mrsandeshbhat.github.io/files/IMECE_ankle.pdf)
