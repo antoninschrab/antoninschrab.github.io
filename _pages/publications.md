@@ -6,6 +6,22 @@ author_profile: true
 For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en)<br>
 <br>
 <br>
-<b>[Development of a Passive Prosthetic Ankle With Slope Adapting Capabilities](http://mrsandeshbhat.github.io/publications/IMECEankle.md)</b> <br> 
+<b>[Design and Analysis of an Auto-Parametrically Excited Platform for Active Vibration Control](http://mrsandeshbhat.github.io/publications/WEARperiodic)</b> <br> 
+Thao Le, <i><b>Sandesh G Bhat</b></i>, Susheelkumar C Subramanian, Peter MB Waswa, Sangram Redkar
+<i>ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>. <b>IDETC-CIE 2019</b>.
+<br>
+<b>[Analysis of a periodic force applied to the trunk to assist walking gait](http://mrsandeshbhat.github.io/publications/WEARperiodic)</b> <br> 
+<i><b>Sandesh G Bhat</b></i>, Susheelkumar Cherangara, Jason Olson, Sangram Redkar, Thomas G. Sugar.
+<i>2019 Wearable Robotics Association Conference</i>. <b>WearRAcon 2019</b>.
+<br>
+<b>[Volitional control of an active prosthetic ankle: a survey](http://mrsandeshbhat.github.io/publications/IRAJsurvey)</b> <br> 
+<i><b>Sandesh G Bhat</b></i>, Sangram Redkar.
+<i>ASME 2018 International Mechanical Engineering Congress and Exposition</i>. <b>IMECE 2018</b>.
+<br>
+<b>[Design and Development of an Unmanned Underwater Vehicle (UUV) in the Form of a Cuttlefish](http://mrsandeshbhat.github.io/publications/IMECEuuv)</b> <br> 
+Susheelkumar Cherangara Subramanian, Thao Le, Jason Olson, <i><b>Sandesh G Bhat</b></i>, Sangram Redkar.
+<i>ASME 2018 International Mechanical Engineering Congress and Exposition</i>. <b>IMECE 2018</b>.
+<br>
+<b>[Development of a Passive Prosthetic Ankle With Slope Adapting Capabilities](http://mrsandeshbhat.github.io/publications/IMECEankle)</b> <br> 
 <i><b>Sandesh G Bhat</b></i>, Sangram Redkar, Thomas G Sugar.
 <i>ASME 2018 International Mechanical Engineering Congress and Exposition</i>. <b>IMECE 2018</b>.
