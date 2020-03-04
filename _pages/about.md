@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://mrsandeshbhat.github.io/files/sandesh.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://mrsandeshbhat.github.io/files/sandesh.jpg?raw=true" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 </p>
 
 * 
