@@ -1,5 +1,5 @@
 #!/bin/sh
 
 git add --all
-git commit -m 'undid the changes to _config.yml file'
+git commit -m 'added info in about me'
 git push
