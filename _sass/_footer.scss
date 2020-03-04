@@ -12,7 +12,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   background-color: mix(#000, $background-color, 30%);
-  border-top: 1px solid $light-gray;
+  border-top: mix(#fff, $background-color, 20%);
 
   footer {
     @include container;
