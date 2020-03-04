@@ -1,5 +1,5 @@
 #!/bin/sh
 
 git add --all
-git commit -m 'added the skins folder to _sass'
+git commit -m 'made changes to the main.scss file'
 git push
