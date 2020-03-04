@@ -1,5 +1,5 @@
 #!/bin/sh
 
 git add --all
-git commit -m 'Made a chnage to the about me picture'
+git commit -m 'added the contents of main.css file to the repo'
 git push
