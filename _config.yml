@@ -9,7 +9,7 @@
 plugins:
   - jekyll-remote-theme
 remote_theme : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
 title                    : "Sandesh Bhat"
@@ -144,7 +144,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-#  - assets
+  - assets
 keep_files:
   - .git
   - .svn

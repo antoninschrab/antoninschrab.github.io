@@ -1,5 +1,5 @@
 #!/bin/sh
 
 git add --all
-git commit -m 'renamed dark.scss to default.scss'
+git commit -m 'undid the changes to main.scss file'
 git push
