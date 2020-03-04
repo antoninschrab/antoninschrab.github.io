@@ -1,5 +1,5 @@
 #!/bin/sh
 
 git add --all
-git commit -m 'added info in about me'
+git commit -m 'changed portfolio font size'
 git push
