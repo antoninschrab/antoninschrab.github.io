@@ -52,6 +52,6 @@ Publications
  
 Service and leadership
 ======
-* Engineering Assembly member (Graduate and Professional Student Association) (August 2019 - May 2020)
-* Student Body President (Mechanical Engineering Students Association) (August 2015 - May 2016)
-* Treasurer (Mechanical Engineering Students Association) (August 2014 - May 2015)
+ <ul>{% for post in site.student_advocacy %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
