@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MStheses
 date: 2017-12-20
 venue: 'Master of Science Theses, Arizona State University'
-citation: '<i><b>Sandesh G Bhat</b></i>.'
+citation: '<i><b>Sandesh Bhat</b></i>.'
 ---
 
 [[Theses]](https://repository.asu.edu/attachments/194015/content/Bhat_asu_0010N_17430.pdf)

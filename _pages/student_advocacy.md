@@ -1,6 +1,6 @@
 ---
 title: "Student Advocacy"
-permalink: /student_advocacy/
+permalink: /stuadv/
 author_profile: true
 ---
 <br>
@@ -23,7 +23,7 @@ I have been really active in student governments since my undergrad. I care for 
 	*	Appointed various "officers" for the organization.<br>
 <br>
 <br>
-*<b>Treasurer</b> <i>(Mechanical Engineering Students Association)</i> <br> 
+* <b>Treasurer</b> <i>(Mechanical Engineering Students Association)</i> <br> 
 <i>Mumbai University, India.</i><br>
 	* Managed the funds assigned to the Mechanical Engineering Students Association at my undergrad college.<br>
 	* Streamlined the process of spending monies for various association expenses.<br>

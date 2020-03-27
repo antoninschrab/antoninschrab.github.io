@@ -52,6 +52,6 @@ Publications
  
 Service and leadership
 ======
- <ul>{% for post in site.student_advocacy %}
+ <ul>{% for post in site.stuadv %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
