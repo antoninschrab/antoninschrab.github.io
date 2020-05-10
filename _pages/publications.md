@@ -8,22 +8,22 @@ For proper citations, refer [Google Scholar](https://scholar.google.com/citation
 <br>
 <br>
 <b>[Reconstruction Of Ground Reaction Force Data Using Lyapunov Floquet Theory And Invariant Manifold Theory](http://mrsandeshbhat.github.io/publications/IDETCgrfrecon)</b> <br> 
-<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.
+<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.<br>
 <i>ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>. <b>IDETC-CIE 2020</b>.
 <br>
 <br>
 <b>[Invariant Manifolds In Human Joint Angle Analysis During Walking Gait](http://mrsandeshbhat.github.io/publications/IDETCinvariant)</b> <br> 
-<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.
+<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.<br>
 <i>ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>. <b>IDETC-CIE 2020</b>.
 <br>
 <br>
 <b>[Design and Analysis of an Auto-Parametrically Excited Platform for Active Vibration Control](http://mrsandeshbhat.github.io/publications/IDETCthao)</b> <br> 
-Thao Le, <i><b>Sandesh G Bhat</b></i>, Susheelkumar C Subramanian, Peter MB Waswa, Sangram Redkar.
+Thao Le, <i><b>Sandesh G Bhat</b></i>, Susheelkumar C Subramanian, Peter MB Waswa, Sangram Redkar.<br>
 <i>ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>. <b>IDETC-CIE 2019</b>.
 <br>
 <br>
 <b>[Analysis of a periodic force applied to the trunk to assist walking gait](http://mrsandeshbhat.github.io/publications/WearRA)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>, Susheelkumar Cherangara, Jason Olson, Sangram Redkar, Thomas G. Sugar.
+<i><b>Sandesh G Bhat</b></i>, Susheelkumar Cherangara, Jason Olson, Sangram Redkar, Thomas G. Sugar.<br>
 <i>2019 Wearable Robotics Association Conference</i>. <b>WearRAcon 2019</b>.
 <br>
 <br>
