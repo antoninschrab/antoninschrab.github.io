@@ -1,8 +1,8 @@
 ---
-title: "Invariant Manifolds In Human Joint Angle Analysis During Walking Gait"
+title: "Invariant Manifolds In Human Joint Angle Analysis During Walking Gait (accepted; unpublished)"
 collection: publications
 permalink: /publications/IDETCinvariant
-date: 2020
+date: 2020-08-16
 venue: 'International Design Engineering Technical Conferences and Computers and Information in Engineering Conference'
 citation: '<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.'
 ---

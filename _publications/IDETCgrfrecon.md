@@ -1,8 +1,8 @@
 ---
-title: "Reconstruction Of Ground Reaction Force Data Using Lyapunov Floquet Theory And Invariant Manifold Theory"
+title: "Reconstruction Of Ground Reaction Force Data Using Lyapunov Floquet Theory And Invariant Manifold Theory (accepted; unpublished)"
 collection: publications
 permalink: /publications/IDETCgrfrecon
-date: 2020
+date: 2020-08-16
 venue: 'International Design Engineering Technical Conferences and Computers and Information in Engineering Conference'
 citation: '<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.'
 ---
