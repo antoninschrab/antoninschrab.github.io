@@ -90,11 +90,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #3689ff; // blue un peu foncé mix(#000, $info-color, 15%) !default; // external links 
+$link-color                 : #66bfff; // blue un peu foncé mix(#000, $info-color, 15%) !default; // external links 
 $link-color-hover           : #0800ff; // blue foncé mix(#000, $link-color, 25%) !default; // external links
 $link-color-visited         : #4400ff; // violet mix(#fff, $link-color, 15%) !default;
 $masthead-link-color        : #ffffff; // mauve mix(#fff, $link-color, 15%) !default; // couleur catégories en haut
-$masthead-link-color-hover  : #00ffe5; // pink mix(#000, $primary-color, 25%) !default; // couleur when hoover catégories en haut
+$masthead-link-color-hover  : #66bfff; // pink mix(#000, $primary-color, 25%) !default; // couleur when hoover catégories en haut
 $navicon-link-color-hover   : #00ffe5; // entre rose et rouge mix(#fff, $primary-color, 75%) !default;
 
 
