@@ -47,11 +47,11 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #ff0000; // #7a8288;
+$dark-gray                  : #ff0000; // mix(#000, $gray, 40%);
+$darker-gray                : #ff0000; // mix(#000, $gray, 60%);
+$light-gray                 : #ff0000; // mix(#fff, $gray, 50%);
+$lighter-gray               : #ff0000; // mix(#fff, $gray, 90%);
 
 $body-color                 : #ff0000; // #252a34;
 $background-color           : #ff0000; // #252a34;
@@ -61,10 +61,10 @@ $text-color                 : #ff0000; // #eaeaea;
 $border-color               : #ff0000; // mix(#fff, $background-color, 20%);
 
 $primary-color              : #ff0000;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$success-color              : #ff0000; // #62c462;
+$warning-color              : #ff0000; // #f89406;
+$danger-color               : #ff0000; // #ee5f5b;
+$info-color                 : #ff0000; // #52adc8;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,12 +90,12 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : mix(#000, $info-color, 15%) !default;
-$link-color-hover           : mix(#000, $link-color, 25%) !default;
-$link-color-visited         : mix(#fff, $link-color, 15%) !default;
-$masthead-link-color        : $primary-color !default;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
-$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+$link-color                 : #ff0000; // mix(#000, $info-color, 15%) !default;
+$link-color-hover           : #ff0000; // mix(#000, $link-color, 25%) !default;
+$link-color-visited         : #ff0000; // mix(#fff, $link-color, 15%) !default;
+$masthead-link-color        : #ff0000; // $primary-color !default;
+$masthead-link-color-hover  : #ff0000; // mix(#000, $primary-color, 25%) !default;
+$navicon-link-color-hover   : #ff0000; // mix(#fff, $primary-color, 75%) !default;
 
 
 /*
