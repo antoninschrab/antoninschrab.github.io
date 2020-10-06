@@ -14,7 +14,7 @@
 locale                   : "en-US"
 title                    : "Antonin Schrab"
 title_separator          : "-"
-name                     : &name "Anto Schrab"
+name                     : &name "Antonin Schrab"
 description              : &description "Ph.D. candidate on the Foundational Artificial Intelligence CDT at the UCL AI Centre"
 url                      : https://antoninschrab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
