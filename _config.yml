@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Antonin Schrab"
 title_separator          : "-"
 name                     : &name "Antonin Schrab"
-description              : &description "Ph.D. candidate on the Foundational Artificial Intelligence CDT at the UCL AI Centre"
+description              : &description "personal description"
 url                      : https://antoninschrab.github.io/antonins.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antoninschrab/antonins.github.io"
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Antonin Schrab"
-  avatar           : #"sandesh.jpg"
+  avatar           : "sandesh.jpg"
   bio              : "Ph.D. candidate on the Foundational Artificial Intelligence CDT at the UCL AI Centre"
   location         : 
   employer         : "University College London"
