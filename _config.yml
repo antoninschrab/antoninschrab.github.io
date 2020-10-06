@@ -12,13 +12,13 @@
 #minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
-title                    : "Anto S"
+title                    : "Antonin Schrab"
 title_separator          : "-"
-name                     : &name "Anto X"
-description              : &description "Ph.D. candidate, System Engineering program, Ira A. Fulton School of Engineering, Arizona State University"
-url                      : https://mrsandeshbhat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Anto Schrab"
+description              : &description "Ph.D. candidate on the Foundational Artificial Intelligence CDT at the UCL AI Centre"
+url                      : https://antoninschrab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mrsandeshbhat/mrsandeshbhat.github.io"
+repository               : "antoninschrab/antoninschrab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -58,7 +58,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter: 
   username               : 
 facebook:
   username               : 
@@ -82,13 +82,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anto S"
-  avatar           : "sandesh.jpg"
-  bio              : "Ph.D. candidate, System Engineering program, Ira A. Fulton School of Engineering, Arizona State University"
-  location         : "Phoenix, Arizona, USA"
-  employer         : "Arizona State University"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
-  email            : "sandesh.bhat@asu.edu"
+  name             : "Antonin Schrab"
+  avatar           : "antonin.jpg"
+  bio              : "Ph.D. candidate on the Foundational Artificial Intelligence CDT at the UCL AI Centre"
+  location         : 
+  employer         : "University College London"
+  googlescholar    : "
+  email            : "antonin.schrab@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -96,19 +96,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "mrsandeshbhat"
+  github           : "antoninschrab"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "mrsandeshbhat"
-  orcid            : "https://orcid.org/0000-0002-8989-0235"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/antoninschrab"
   vine             :
   weibo            :
   xing             :
@@ -254,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
