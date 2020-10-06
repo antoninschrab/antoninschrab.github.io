@@ -54,13 +54,13 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #ffffff; // red #00028c; // rien
-$background-color           : #030052; //#00026b; // background 
+$background-color           : #00026b; // background 
 $code-background-color      : #ffcc00; //jaune pas brightmix(#000, $background-color, 15%); // rien
 $code-background-color-dark : #fffb00; // jaune bright mix(#000, $background-color, 20%); // rien
 $text-color                 : #ffffff; // text
 $border-color               : #ffffff; // vert bright mix(#fff, $background-color, 20%); // ligne sous catégories en haut
 
-$primary-color              : #00ffe5; // turquoise #4150fa; // souligné les catégories en haut
+$primary-color              : #ffffff; // turquoise #4150fa; // souligné les catégories en haut
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
