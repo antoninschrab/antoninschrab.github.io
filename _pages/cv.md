@@ -14,6 +14,7 @@ redirect_from:
 
 Education
 ======
+* SCHRAB
 * B.E. in Mechanical Engineering, Mumbai University, India, 2016
 * M.S. in Mechanical and Aerospace Engineering, Arizona State University, U.S.A., 2017
 * Ph.D in Systems Engineering, Arizona State University, U.S.A., 2021 (expected)
