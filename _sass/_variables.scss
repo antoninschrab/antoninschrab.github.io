@@ -53,18 +53,18 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #ff0000; // red #00028c;
-$background-color           : #ff7b00; // orange #00028c;
-$code-background-color      : #ffcc00; //jaune pas brightmix(#000, $background-color, 15%);
-$code-background-color-dark : #fffb00; // jaune bright mix(#000, $background-color, 20%);
-$text-color                 : #c3ff00; // vert moche #f7f7f7;
-$border-color               : #00ff0d; // vert bright mix(#fff, $background-color, 20%);
+$body-color                 : #ff0000; // red #00028c; // rien
+$background-color           : #00026b; // background 
+$code-background-color      : #ffcc00; //jaune pas brightmix(#000, $background-color, 15%); // rien
+$code-background-color-dark : #fffb00; // jaune bright mix(#000, $background-color, 20%); // rien
+$text-color                 : #c3ff00; // vert moche #f7f7f7; // text
+$border-color               : #00ff0d; // vert bright mix(#fff, $background-color, 20%); // ligne sous catégories en haut
 
-$primary-color              : #00ffe5; // turquoise #4150fa;
+$primary-color              : #00ffe5; // turquoise #4150fa; // souligné les catégories en haut
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #00aeff; // blue middle #4150fa;
+$info-color                 : #00aeff; // blue middle #4150fa; // footnote and portfolio
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +90,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #004cff; // blue un peu foncé mix(#000, $info-color, 15%) !default;
-$link-color-hover           : #0800ff; // blue foncé mix(#000, $link-color, 25%) !default;
+$link-color                 : #004cff; // blue un peu foncé mix(#000, $info-color, 15%) !default; // external links 
+$link-color-hover           : #0800ff; // blue foncé mix(#000, $link-color, 25%) !default; // external links
 $link-color-visited         : #4400ff; // violet mix(#fff, $link-color, 15%) !default;
-$masthead-link-color        : #7b00ff; // mauve mix(#fff, $link-color, 15%) !default;
-$masthead-link-color-hover  : #e100ff; // pink mix(#000, $primary-color, 25%) !default;
+$masthead-link-color        : #7b00ff; // mauve mix(#fff, $link-color, 15%) !default; // couleur catégories en haut
+$masthead-link-color-hover  : #e100ff; // pink mix(#000, $primary-color, 25%) !default; // couleur when hoover catégories en haut
 $navicon-link-color-hover   : #ff007b; // entre rose et rouge mix(#fff, $primary-color, 75%) !default;
 
 
