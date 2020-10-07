@@ -21,20 +21,16 @@ filter: grayscale(100%);">
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Madurai,+Tamil+Nadu&amp;aq=0&amp;oq=madursi&amp;sll=10.782836,78.288503&amp;sspn=5.674603,10.755615&amp;ie=UTF8&amp;hq=&amp;hnear=Madurai,+Tamil+Nadu&amp;t=m&amp;z=12&amp;ll=9.925201,78.119775&amp;output=embed"></iframe>
 </div> -->
 
-<html>
-  <head>
-    <title>Styled Maps - Night Mode</title>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIwzALxUPNbatRBj3Xi1Uhp0fFzwWNBkE&callback=initMap&libraries=&v=weekly"
-      defer
-    ></script>
-    <!-- jsFiddle will insert css and js -->
-  </head>
-  <body>
-    <div id="map"></div>
-  </body>
-</html>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+<script
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIwzALxUPNbatRBj3Xi1Uhp0fFzwWNBkE&callback=initMap&libraries=&v=weekly"
+  defer
+></script>
+<!-- jsFiddle will insert css and js -->
+
+<div id="map"></div>
+
 
 <!-- <LinkedIn: [<font color="#52ADC8">mrsandeshbhat</font>](https://in.linkedin.com/in/mrsandeshbhat)> -->
 
