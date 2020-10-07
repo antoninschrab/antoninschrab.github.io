@@ -10,7 +10,7 @@ author_profile: true
 ## Contact
 
 <address>
-  UCL Centre for Artificial Intelligence<br />Office 1.25L<br />90 High Holborn<br /> WC1V 6LJ London<br /> United Kingdom
+  UCL Centre for Artificial Intelligence<br />90 High Holborn<br /> WC1V 6LJ London<br /> United Kingdom
 </address>
 <br>
 <!-- ([see on Google Maps](https://goo.gl/maps/5JmzYNJTt8hZufbZA)) -->
