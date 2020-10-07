@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "Education"
+    url: /education/
 
   - title: "Publications"
     url: /publications/
@@ -9,17 +9,17 @@ main:
   # - title: "Awards & Honors"
   #   url: /awards/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+   - title: "Teaching"
+     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
-  - title: "Student Advocacy"
-    url: /stuadv/
+  #- title: "Student Advocacy"
+  #  url: /stuadv/
     
   - title: "Contact"
     url: /contact/  
