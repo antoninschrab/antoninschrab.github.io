@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Contact
-
 <address>
   UCL Centre for Artificial Intelligence<br />90 High Holborn<br /> WC1V 6LJ London<br /> United Kingdom
 </address>
