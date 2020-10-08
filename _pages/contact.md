@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <br>
-UCL Centre for Artificial Intelligence Anto
+UCL Centre for Artificial Intelligence
 <br>
 90 High Holborn
 <br> 
