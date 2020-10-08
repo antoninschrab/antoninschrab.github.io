@@ -1,13 +1,10 @@
 ---
-<!-- layout: archive -->
 title: "Education"
 permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 
 * 2020--2024: [PhD in Foundational Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd), UCL AI Centre
 * 2019--2020: [MSc in Machine Learning](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/machine-learning-msc), University College London
