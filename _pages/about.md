@@ -1,4 +1,5 @@
 ---
+permalink: /home/
 title: "Home"
 excerpt: "Home"
 author_profile: true
