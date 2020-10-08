@@ -4,7 +4,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-<br>
 UCL Centre for Artificial Intelligence
 <br>
 90 High Holborn
@@ -17,8 +16,5 @@ United Kingdom
 
 <br>
 <img align="middle" src="https://antoninschrab.github.io/antonins.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-
-
 <!-- <LinkedIn: [<font color="#52ADC8">mrsandeshbhat</font>](https://in.linkedin.com/in/mrsandeshbhat)> -->
-
 <!-- <embed src="https://www.linkedin.com/in/mrsandeshbhat" width="650" height="1800" type='application/pdf'> -->
