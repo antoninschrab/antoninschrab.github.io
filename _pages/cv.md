@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Sandesh Bhat"
+title: "Education"
 permalink: /education/
 author_profile: true
 redirect_from:
@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://mrsandeshbhat.github.io/files/CV.pdf)
 
-
-Education
-======
 * SCHRAB
 * B.E. in Mechanical Engineering, Mumbai University, India, 2016
 * M.S. in Mechanical and Aerospace Engineering, Arizona State University, U.S.A., 2017
