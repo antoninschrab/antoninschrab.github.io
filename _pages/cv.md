@@ -12,4 +12,4 @@ redirect_from:
 * 2018--2019: [Professional Certificate Program Data Science](https://online-learning.harvard.edu/series/professional-certificate-data-science), HarvardX
 * 2014--2018: [MMath in Mathematics](https://www.maths.ox.ac.uk/study-here/undergraduate-study/which-course/mathematics), University of Oxford 
 
-<img align="middle" src="https://antoninschrab.github.io/antonins.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://antoninschrab.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
