@@ -57,4 +57,4 @@ Service and leadership
 * Student Body President (Mechanical Engineering Students Association) (August 2015 - May 2016)
 * Treasurer (Mechanical Engineering Students Association) (August 2014 - May 2015)
 
-<img align="middle" src="https://antoninschrab.github.io/antonins.github.io/files/nettest.jpeg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://antoninschrab.github.io/antonins.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
