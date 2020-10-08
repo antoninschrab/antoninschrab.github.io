@@ -8,6 +8,10 @@ redirect_from:
   - /home.html
 ---
 
+I am a PhD student on the [Foundational Artifical Intelligence CDT](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd) at the [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) working on PAC-Bayes and kernel methods with [Benjamin Guedj](https://bguedj.github.io) at the [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) and [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/) at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
+
+
+
 
 I, Dr. Schrab, am a Ph.D. candidate in [Systems Engineering](https://poly.engineering.asu.edu/engineering/phd-systems-engineering/), [Ira A. Fulton School of Engineering](https://engineering.asu.edu/), Arizona State University. I research in the field of Robotics for Rehabilitation Application. I am advised by [Dr. Sangram Redkar](https://isearch.asu.edu/profile/1114748) and [Dr. Thomas Sugar](https://isearch.asu.edu/profile/227786) in the [Robotics, Bionics, Dynamical Systems & Controls Group](). I received my Master of Science (MS) degree in [Mechanical Engineering](https://semte.engineering.asu.edu/mechanical-graduate/) from the [Ira A. Fulton School of Engineering](https://engineering.asu.edu/), Arizona State University and my Bachelor of Engineering (BE) Degree in Mechanical Engineering from the [University of Mumbai](http://mu.ac.in/).
 
