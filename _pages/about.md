@@ -14,7 +14,7 @@ My research interests lie in proving theoretical guarantees for various machine 
 I received a [Master of Mathematics](https://www.maths.ox.ac.uk/study-here/undergraduate-study/which-course/mathematics) from the [University of Oxford](https://www.ox.ac.uk) and a [Master of Science in Machine Learning](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/machine-learning-msc) from [University College London](https://www.ucl.ac.uk).
 I am also affiliated with [Inria](https://www.inria.fr/en) and the [Modal research team](https://team.inria.fr/modal/).
 
-
+<br>
 <a class="twitter-timeline" data-width="450" data-height="900" data-theme="dark" href="https://twitter.com/antoninschrab?ref_src=twsrc%5Etfw">Tweets by antoninschrab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <img align="middle" src="https://antoninschrab.github.io/antonins.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
