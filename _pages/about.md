@@ -16,6 +16,6 @@ I, Dr. Schrab, am a Ph.D. candidate in [Systems Engineering](https://poly.engine
 
 <img align="middle" src="https://antoninschrab.github.io/antonins.github.io/files/net.jpg?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
-<img align="middle" src="https://antoninschrab.github.io/antonins.github.io/files/net0.jpg?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://antoninschrab.github.io/antonins.github.io/files/net0.jng?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
 
