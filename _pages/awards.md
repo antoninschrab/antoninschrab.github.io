@@ -13,3 +13,7 @@ author_profile: true
 * **Zhiyuan Honors Scholarship** (Top 5%, Twice), Shanghai Jiao Tong University. 2015 & 2016.
 * **Yuan-Ze Scholarship** (Top 2%), Zhiyuan College, Shanghai Jiao Tong University. 2014-2015.
 * **First Prize** in China Undergraduate Mathematical Contest in Modeling, Shanghai Division. 2015
+
+
+<!-- * 2018--2019: [MicroMasters Program in Statistics and Data Science](https://micromasters.mit.edu/ds/), MITx
+* 2018--2019: [Professional Certificate Program Data Science](https://online-learning.harvard.edu/series/professional-certificate-data-science), HarvardX -->
