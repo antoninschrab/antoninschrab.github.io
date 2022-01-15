@@ -4,14 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-MMD Aggregated Two-Sample Test
-
-Antonin Schrab, Ilmun Kim, Mélisande Albert, Béatrice Laurent, Benjamin Guedj, Arthur Gretton
-
-[arxiv](https://arxiv.org/abs/2110.15073)
-
-[code](https://github.com/antoninschrab/mmdagg-paper)
-
 <div id="bibbase">
 <script src="https://bibbase.org/show?bib=https://antoninschrab.github.io/files/aschrab-publications.bib&jsonp=1&nocache=1&theme=default">
 </script>
