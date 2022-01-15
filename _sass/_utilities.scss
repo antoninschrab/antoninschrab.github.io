@@ -185,7 +185,31 @@ body:hover .visually-hidden button {
   .fa {
     color: inherit;
   }
-
+  
+  .ai-orcid,
+  .ai-orcid-square {
+     color: $orcid-color;
+   }
+  
+  .ai-arxiv,
+  .ai-arxiv-square {
+     color: $arxiv-color;
+   }
+  
+  .ai-dblp,
+  .ai-dblp-square {
+     color: $dblp-color;
+   }
+  
+  .ai-researchgate,
+  .ai-researchgate-square {
+     color: $researchgate-color;
+   }
+  
+  .fa-map-marker {
+     color: $location-color;
+   }
+  
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;
