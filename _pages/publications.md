@@ -17,9 +17,11 @@ Antonin Schrab, Ilmun Kim, Mélisande Albert, Béatrice Laurent, Benjamin Guedj,
 </script>
 </div>
 
+<!--
 <script>
 document.getElementById("bibbase").style.color = "#10043d";
 document.getElementById("bibbase").style.backgroundColor = "#ffffff";
 </script>
+-->
 
 <img align="middle" src="https://antoninschrab.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
