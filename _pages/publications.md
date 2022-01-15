@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-MMD Aggregated Two-Sample Test
+<span style="color: red">fox</span> MMD Aggregated Two-Sample Test
 
 Antonin Schrab, Ilmun Kim, Mélisande Albert, Béatrice Laurent, Benjamin Guedj, Arthur Gretton
 
