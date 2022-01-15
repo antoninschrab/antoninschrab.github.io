@@ -118,6 +118,9 @@
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
+      {% if author.hal %}
+        <li><a href="{{ author.hal }}"><i class="ai ai-fw ai-hal-square" aria-hidden="true"></i> HAL</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
