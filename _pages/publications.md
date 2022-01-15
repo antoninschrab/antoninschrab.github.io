@@ -18,7 +18,7 @@ Antonin Schrab, Ilmun Kim, Mélisande Albert, Béatrice Laurent, Benjamin Guedj,
 </div>
 
 <script>
-document.getElementById("bibbase").style.color = "black";
+document.getElementById("bibbase").style.color = "#10043d";
 document.getElementById("bibbase").style.backgroundColor = "#ffffff";
 </script>
 
