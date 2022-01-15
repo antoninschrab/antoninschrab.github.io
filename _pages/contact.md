@@ -22,7 +22,7 @@ United Kingdom
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1in9QJHbSa3IOENJd863nKFgfH0hKb5G7&ehbc=2E312F" width="640" height="480"></iframe>
 
-<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1in9QJHbSa3IOENJd863nKFgfH0hKb5G7&ehbc=2E312F&zoom=10" width="576" height="432"></iframe>
+<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1in9QJHbSa3IOENJd863nKFgfH0hKb5G7&ehbc=2E312F&z=10" width="576" height="432"></iframe>
 
 <img align="middle" src="https://antoninschrab.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 <!-- <LinkedIn: [<font color="#52ADC8">mrsandeshbhat</font>](https://in.linkedin.com/in/mrsandeshbhat)> -->
