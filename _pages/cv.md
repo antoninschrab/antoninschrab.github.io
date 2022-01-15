@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-* 2020--2024: [PhD in Foundational Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd), UCL AI Centre
+* 2020--2024: [PhD in Foundational Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd), Centre for Artificial Intelligence & Gatsby Computational Neuroscience Unit, University College London
 * 2019--2020: [MSc in Machine Learning](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/machine-learning-msc), University College London
 * 2014--2018: [MMath in Mathematics](https://www.maths.ox.ac.uk/study-here/undergraduate-study/which-course/mathematics), University of Oxford 
 
