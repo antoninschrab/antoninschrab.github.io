@@ -1,13 +1,7 @@
 # main links links
 main:
-  - title: "Education"
-    url: /education/
-
   - title: "Publications"
     url: /publications/
-
-  # - title: "Awards & Honors"
-  #   url: /awards/
 
   - title: "Talks"
     url: /talks/    
@@ -16,13 +10,19 @@ main:
     url: /events/
     
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Education"
+    url: /education/
     
   - title: "Contact"
     url: /contact/  
     
+  # - title: "Awards & Honors"
+  #   url: /awards/
+    
   # - title: "Guide"
-    # url: /markdown/
+  #   url: /markdown/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
