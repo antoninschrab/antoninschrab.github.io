@@ -3,7 +3,7 @@
 Name Name:
   name        : "Antonin Schrab"
   uri         : "http://antoninschrab.github.io"
-  email       : "antonin.schrab@gmail.com"
+  #email       : 
   #bio         : "This is the first name."
   avatar      : "antonin.jpg"
   #twitter     : "name"
