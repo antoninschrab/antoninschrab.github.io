@@ -8,7 +8,7 @@ UCL Centre for Artificial Intelligence
 <br>
 90 High Holborn
 <br> 
-WC1V 6LJ London
+London WC1V 6LJ
 <br> 
 United Kingdom
 <br>
@@ -19,7 +19,7 @@ Sainsbury Wellcome Centre
 <br>
 25 Howland Street
 <br>
-W1T 4JG London
+London W1T 4JG
 <br> 
 United Kingdom
 
