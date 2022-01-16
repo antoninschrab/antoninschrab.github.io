@@ -12,14 +12,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Events"
+    url: /events/
+    
   - title: "Teaching"
     url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
-        
-  #- title: "Student Advocacy"
-  #  url: /stuadv/
     
   - title: "Contact"
     url: /contact/  
