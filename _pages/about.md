@@ -18,7 +18,7 @@ I am a PhD student on the [Foundational Artifical Intelligence CDT](https://www.
 My research interests include kernel methods, PAC-Bayes and generative models. 
 I have recently focused on proving theoretical guarantees for kernel-based aggregated testing procedures.
 
-Prior to starting my PhD, I received a [Master of Mathematics](https://www.maths.ox.ac.uk/study-here/undergraduate-study/which-course/mathematics) from the [University of Oxford](https://www.ox.ac.uk) and a [Master of Science in Machine Learning](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/machine-learning-msc) from [UCL](https://www.ucl.ac.uk).
+Prior to starting my PhD, I received a [Master of Mathematics](https://www.maths.ox.ac.uk/study-here/undergraduate-study/which-course/mathematics) from the [University of Oxford](https://www.ox.ac.uk) and a [Master of Science in Machine Learning](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/machine-learning-msc) from [University College London](https://www.ucl.ac.uk).
 
 I am affiliated with [Inria](https://www.inria.fr/en) through the [Inria-London Programme](http://london.inria.fr/) and the [Modal research team](https://team.inria.fr/modal/).
 I organise the [DeepMind/ELLIS CSML Seminar Series](https://ucl-ellis.github.io/dm_csml_seminar_home/) for the [UCL ELLIS Unit](https://ucl-ellis.github.io).
