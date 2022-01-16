@@ -21,7 +21,7 @@ I have recently focused on proving theoretical guarantees for kernel-based aggre
 Prior to starting my PhD, I received a [Master of Mathematics](https://www.maths.ox.ac.uk/study-here/undergraduate-study/which-course/mathematics) from the [University of Oxford](https://www.ox.ac.uk) and a [Master of Science in Machine Learning](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/machine-learning-msc) from [University College London](https://www.ucl.ac.uk).
 
 I am affiliated with [Inria](https://www.inria.fr/en) through the [Inria-London Programme](http://london.inria.fr/) and the [Modal research team](https://team.inria.fr/modal/).
-I organise the [DeepMind/ELLIS CSML Seminar Series](https://ucl-ellis.github.io/dm_csml_seminar_home/) for the [UCL ELLIS Unit](https://ucl-ellis.github.io).
+I also organise the [DeepMind/ELLIS CSML Seminar Series](https://ucl-ellis.github.io/dm_csml_seminar_home/) on Computational Statistics and Machine Learning for the [UCL ELLIS Unit](https://ucl-ellis.github.io) (European Lab for Learning & Intelligent Systems).
 
 <br>
 <a class="twitter-timeline" data-width="450" data-height="900" data-theme="dark" href="https://twitter.com/antoninschrab?ref_src=twsrc%5Etfw">Tweets by antoninschrab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
