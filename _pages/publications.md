@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 My publications can be found on the following systems:
-* [arXiv](https://arxiv.org/search/?searchtype=author&query=Schrab)
+* [arXiv](https://arxiv.org/a/0000-0002-3218-8613)
 * [Google Scholar](https://scholar.google.com/citations?user=1IYG05YAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-3218-8613)
 * [dblp](https://dblp.uni-trier.de/pid/305/0565.html)
