@@ -5,7 +5,7 @@ author_profile: true
 ---
  
 * [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp):
-  * Tuesday 25th January 2022, 9am GMT
+  * Tuesday 22th February 2022, 9am GMT
   * [Event link](https://aip.riken.jp/events/event_131267/)
   * [Paper](https://arxiv.org/pdf/2110.15073.pdf)
   <!-- * [Slides](https://antoninschrab.github.io/files/) -->
