@@ -6,8 +6,8 @@ author_profile: true
 
 My publications can be found on the following systems:
 
-* <i class="ai ai-fw ai-hal" style="color:#ffffff"></i> <a href="{{ site.author.hal }}"> HAL</a>
-* <i class="ai ai-fw ai-dblp"></i> <a href="{{ site.author.dblp }}"> dblp</a>
+* <i class="ai ai-fw ai-hal" style="color:#ff0000"></i> <a href="{{ site.author.hal }}"> HAL</a>
+* <i class="ai ai-fw ai-dblp" style="color:$dblp-color"></i> <a href="{{ site.author.dblp }}"> dblp</a>
 * <i class="ai ai-fw ai-orcid"></i> <a href="{{ site.author.orcid }}"> ORCID</a>
 * <i class="ai ai-fw ai-semantic-scholar"></i> <a href="{{ site.author.semanticscholar }}"> Semantic Scholar</a>
 * <i class="ai ai-fw ai-researchgate"></i> <a href="{{ site.author.researchgate }}"> ResearchGate</a>
