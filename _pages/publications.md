@@ -7,7 +7,6 @@ author_profile: true
 My publications can be found on the following systems:
 
 * ><i class="ai ai-fw ai-arxiv"></i> <a href="{{ site.author.arxiv }}" arXiv</a>
-* <i class="ai ai-fw ai-google-scholar"></i> <a href="{{ site.author.googlescholar }}"> Google Scholar</a>
 * <a href="{{ site.author.hal }}"><i class="ai ai-fw ai-hal"></i> HAL</a>
 * <a href="{{ site.author.dblp }}"><i class="ai ai-fw ai-dblp"></i> dblp</a>
 * <a href="{{ site.author.orcid }}"><i class="ai ai-fw ai-orcid"></i> ORCID</a>
