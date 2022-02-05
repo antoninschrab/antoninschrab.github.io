@@ -6,7 +6,7 @@ author_profile: true
 
 My publications can be found on the following systems:
 
-* <i class="ai ai-fw ai-arxiv"></i> <a href="{{ site.author.arxiv }}"> arXiv</a>
+* <div id="arxiv"><i class="ai ai-fw ai-arxiv"></i></div> <a href="{{ site.author.arxiv }}"> arXiv</a>
 * <i class="ai ai-fw ai-hal"></i> <a href="{{ site.author.hal }}"> HAL</a>
 * <a href="{{ site.author.hal }}"><i class="ai ai-fw ai-hal"></i> HAL</a>
 * <a href="{{ site.author.dblp }}"><i class="ai ai-fw ai-dblp"></i> dblp</a>
@@ -47,6 +47,7 @@ My publications can be found on the following systems:
 <script>
 document.getElementById("bibbase").style.color = "#0f0047";
 document.getElementById("bibbase").style.backgroundColor = "#ffffff";
+document.getElementById("arxiv").style.color = $color-arxiv;
 </script>
 
 <img align="middle" src="https://antoninschrab.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
