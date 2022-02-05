@@ -6,14 +6,14 @@ author_profile: true
 
 My publications can be found on the following systems:
 
-* <i class="ai ai-fw ai-hal" style="color:green"></i> <a href="{{ site.author.hal }}"> HAL</a>
+* <i class="ai ai-fw ai-hal" style="color:#ffffff"></i> <a href="{{ site.author.hal }}"> HAL</a>
 * <i class="ai ai-fw ai-dblp"></i> <a href="{{ site.author.dblp }}"> dblp</a>
 * <i class="ai ai-fw ai-orcid"></i> <a href="{{ site.author.orcid }}"> ORCID</a>
 * <i class="ai ai-fw ai-semantic-scholar"></i> <a href="{{ site.author.semanticscholar }}"> Semantic Scholar</a>
 * <i class="ai ai-fw ai-researchgate"></i> <a href="{{ site.author.researchgate }}"> ResearchGate</a>
 * <i class="fa fa-fw fa-chain"></i> <a href="{{ site.author.iris }}"> UCL IRIS</a>
 * <i class="fa fa-fw fa-github"></i> <a href="{{ site.author.github }}"> Github</a>
-* <div id="arxiv"><i class="ai ai-fw ai-arxiv"></i></div> <a href="{{ site.author.arxiv }}"> arXiv</a>
+* <i class="ai ai-fw ai-arxiv"></i> <a href="{{ site.author.arxiv }}"> arXiv</a>
 
 
 <!--
