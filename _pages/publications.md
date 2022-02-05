@@ -4,17 +4,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
 My publications can be found on the following systems:
 
-* <div id="arxiv"><i class="ai ai-fw ai-arxiv"></i></div> <a href="{{ site.author.arxiv }}"> arXiv</a>
 * <i class="ai ai-fw ai-hal"></i> <a href="{{ site.author.hal }}"> HAL</a>
-* <a href="{{ site.author.hal }}"><i class="ai ai-fw ai-hal"></i> HAL</a>
-* <a href="{{ site.author.dblp }}"><i class="ai ai-fw ai-dblp"></i> dblp</a>
-* <a href="{{ site.author.orcid }}"><i class="ai ai-fw ai-orcid"></i> ORCID</a>
-* <a href="{{ site.author.semanticscholar }}"><i class="ai ai-fw ai-semantic-scholar"></i> Semantic Scholar</a>
-* <a href="{{ site.author.researchgate }}"><i class="ai ai-fw ai-researchgate"></i> ResearchGate</a>
-* <a href="{{ site.author.iris }}"><i class="fa fa-fw fa-chain"></i> UCL IRIS</a>
-* <a href="{{ site.author.github }}"><i class="fa fa-fw fa-github"></i> Github</a>
+* <i class="ai ai-fw ai-dblp"></i> <a href="{{ site.author.dblp }}"> dblp</a>
+* <i class="ai ai-fw ai-orcid"></i> <a href="{{ site.author.orcid }}"> ORCID</a>
+* <i class="ai ai-fw ai-semantic-scholar"></i> <a href="{{ site.author.semanticscholar }}"> Semantic Scholar</a>
+* <i class="ai ai-fw ai-researchgate"></i> <a href="{{ site.author.researchgate }}"> ResearchGate</a>
+* <i class="fa fa-fw fa-chain"></i> <a href="{{ site.author.iris }}"> UCL IRIS</a>
+* <i class="fa fa-fw fa-github"></i> <a href="{{ site.author.github }}"> Github</a>
+* <div id="arxiv"><i class="ai ai-fw ai-arxiv"></i></div> <a href="{{ site.author.arxiv }}"> arXiv</a>
 
 
 <!--
