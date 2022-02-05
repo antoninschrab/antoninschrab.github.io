@@ -28,17 +28,50 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true" style="padding-right: 0.2em;"></i> {{ author.employer }}</li>
       {% endif %}
-      {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
-      {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if author.keybase %}
-        <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
-      {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter" aria-hidden="true" style="padding-right: 1.5em;"></i>Twitter</a></li>
+      {% endif %}
+      {% if author.github %}
+        <li><a href="https://github.com/{{ author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true" style="padding-right: 1.5em;"></i>Github</a></li>
+      {% endif %}
+      {% if author.arxiv %}
+        <li><a href="{{ author.arxiv }}"><i class="ai ai-fw ai-arxiv" style="padding-right: 1.5em;"></i>arXiv</a></li>
+      {% endif %}
+      {% if author.hal %}
+        <li><a href="{{ author.hal }}"><i class="ai ai-fw ai-hal" aria-hidden="true" style="padding-right: 1.5em;"></i>HAL</a></li>
+      {% endif %}
+      {% if author.orcid %}
+        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw" style="padding-right: 1.5em;"></i>ORCID</a></li>
+      {% endif %}
+      {% if author.dblp %}
+        <li><a href="{{ author.dblp }}"><i class="ai ai-fw ai-dblp" style="padding-right: 1.5em;"></i>dblp</a></li>
+      {% endif %}
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw" style="padding-right: 1.5em;"></i>Google Scholar</a></li>
+      {% endif %}
+      {% if author.semanticscholar %}
+        <li><a href="{{ author.semanticscholar }}"><i class="ai ai-fw ai-semantic-scholar" aria-hidden="true" style="padding-right: 1.5em;"></i>Semantic Scholar</a></li>
+      {% endif %}
+      {% if author.researchgate %}
+        <li><a href="{{ author.researchgate }}"><i class="ai ai-fw ai-researchgate" aria-hidden="true" style="padding-right: 1.5em;"></i>ResearchGate</a></li>
+      {% endif %}
+      {% if author.iris %}
+        <li><a href="{{ author.iris }}"><i class="fa fa-fw fa-chain" aria-hidden="true" style="padding-right: 1.5em;"></i>UCL IRIS</a></li>
+      {% endif %}
+      {% if author.uclcs %}
+        <li><a href="{{ author.uclcs }}"><i class="fa fa-fw fa-server" aria-hidden="true" style="padding-right: 1.5em;"></i>UCL CS</a></li>
+      {% endif %} 
+      {% if author.wikipedia %}
+        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.uri %}
+        <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
+      {% endif %}
+      {% if author.keybase %}
+        <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -60,9 +93,6 @@
       {% endif %}
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-      {% endif %}
-      {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true" style="padding-right: 1.5em;"></i>Github</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -99,33 +129,6 @@
       {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
-      {% endif %}
-      {% if author.arxiv %}
-        <li><a href="{{ author.arxiv }}"><i class="ai ai-fw ai-arxiv" style="padding-right: 1.5em;"></i>arXiv</a></li>
-      {% endif %}
-      {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw" style="padding-right: 1.5em;"></i>Google Scholar</a></li>
-      {% endif %}
-      {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw" style="padding-right: 1.5em;"></i>ORCID</a></li>
-      {% endif %}
-      {% if author.wikipedia %}
-        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
-      {% endif %}
-      {% if author.dblp %}
-        <li><a href="{{ author.dblp }}"><i class="ai ai-fw ai-dblp" style="padding-right: 1.5em;"></i>dblp</a></li>
-      {% endif %}
-      {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="ai ai-fw ai-researchgate" aria-hidden="true" style="padding-right: 1.5em;"></i>ResearchGate</a></li>
-      {% endif %}
-      {% if author.hal %}
-        <li><a href="{{ author.hal }}"><i class="ai ai-fw ai-hal" aria-hidden="true" style="padding-right: 1.5em;"></i>HAL</a></li>
-      {% endif %}
-      {% if author.iris %}
-        <li><a href="{{ author.iris }}"><i class="fa fa-fw fa-chain" aria-hidden="true" style="padding-right: 1.5em;"></i>IRIS</a></li>
-      {% endif %}
-      {% if author.semanticscholar %}
-        <li><a href="{{ author.semanticscholar }}"><i class="ai ai-fw ai-semantic-scholar" aria-hidden="true" style="padding-right: 1.5em;"></i>Semantic Scholar</a></li>
       {% endif %}
     </ul>
   </div>
