@@ -4,15 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
-{% endif %}
-
 My publications can be found on the following systems:
 
-* <i class="ai ai-fw ai-hal"></i> <a href="{{ site.author.hal }}"> HAL</a>
+* <i class="ai ai-fw ai-hal" style="color:green"></i> <a href="{{ site.author.hal }}"> HAL</a>
 * <i class="ai ai-fw ai-dblp"></i> <a href="{{ site.author.dblp }}"> dblp</a>
 * <i class="ai ai-fw ai-orcid"></i> <a href="{{ site.author.orcid }}"> ORCID</a>
 * <i class="ai ai-fw ai-semantic-scholar"></i> <a href="{{ site.author.semanticscholar }}"> Semantic Scholar</a>
