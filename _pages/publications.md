@@ -5,6 +5,27 @@ author_profile: true
 ---
 
 My publications can be found on the following systems:
+
+<a href="{{ site.author.arxiv }}"><i class="ai ai-fw ai-arxiv"></i> arXiv</a>
+<a href="{{ site.author.googlescholar }}"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a>
+<a href="{{ site.author.hal }}"><i class="ai ai-fw ai-hal"></i> HAL</a>
+<a href="{{ site.author.dblp }}"><i class="ai ai-fw ai-dblp"></i> dblp</a>
+<a href="{{ site.author.orcid }}"><i class="ai ai-fw ai-orcid"></i> ORCID</a>
+<a href="{{ site.author.semanticscholar }}"><i class="ai ai-fw ai-semantic-scholar"></i> Semantic Scholar</a>
+<a href="{{ site.author.researchgate }}"><i class="ai ai-fw ai-researchgate"></i> ResearchGate</a>
+<a href="{{ site.author.iris }}"><i class="fa fa-fw fa-chain"></i> UCL IRIS</a>
+<a href="{{ site.author.github }}"><i class="fa fa-fw fa-github"></i> Github</a>
+
+* <a href="{{ site.author.arxiv }}"><i class="ai ai-fw ai-arxiv"></i> arXiv</a>
+* <a href="{{ site.author.googlescholar }}"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a>
+* <a href="{{ site.author.hal }}"><i class="ai ai-fw ai-hal"></i> HAL</a>
+* <a href="{{ site.author.dblp }}"><i class="ai ai-fw ai-dblp"></i> dblp</a>
+* <a href="{{ site.author.orcid }}"><i class="ai ai-fw ai-orcid"></i> ORCID</a>
+* <a href="{{ site.author.semanticscholar }}"><i class="ai ai-fw ai-semantic-scholar"></i> Semantic Scholar</a>
+* <a href="{{ site.author.researchgate }}"><i class="ai ai-fw ai-researchgate"></i> ResearchGate</a>
+* <a href="{{ site.author.iris }}"><i class="fa fa-fw fa-chain"></i> UCL IRIS</a>
+* <a href="{{ site.author.github }}"><i class="fa fa-fw fa-github"></i> Github</a>
+
 * [arXiv](https://arxiv.org/a/0000-0002-3218-8613)
 * [Google Scholar](https://scholar.google.com/citations?user=1IYG05YAAAAJ)
 * [HAL](https://hal.archives-ouvertes.fr/search/index/?q=%2A&authFullName_s=Antonin+Schrab)
