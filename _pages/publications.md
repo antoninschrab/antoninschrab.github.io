@@ -17,7 +17,7 @@ My publications can be found on the following systems:
 * <i class="fa fa-fw fa-chain" style="color:#99cfde"></i> <a href="{{ site.author.iris }}"> UCL IRIS</a>
 
 The code for my publications is publicly available on:
-* <i class="fa fa-fw fa-github" style="color:#6e5494"></i> <a href="{{ author.github }}"> Github</a>
+* <i class="fa fa-fw fa-github" style="color:#6e5494"></i> <a href="https://github.com/antoninschrab"> Github</a>
 
 <div id="bibbase">
 <script src="https://bibbase.org/show?bib=https://antoninschrab.github.io/files/aschrab-publications.bib&jsonp=1&nocache=1&theme=default">
