@@ -16,7 +16,7 @@ My publications can be found on the following systems:
 * <i class="ai ai-fw ai-publons" style="color:#366797"></i> <a href="{{ site.author.publons }}"> Publons</a>
 * <i class="fa fa-fw fa-chain" style="color:#99cfde"></i> <a href="{{ site.author.iris }}"> UCL IRIS</a>
 
-The code for my publications is publicly available on
+The code for my publications is publicly available on:
 * <i class="fa fa-fw fa-github" style="color:#6e5494"></i> <a href="{{ site.author.github }}"> Github</a>
 
 <div id="bibbase">
