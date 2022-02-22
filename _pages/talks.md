@@ -5,10 +5,11 @@ author_profile: true
 ---
  
 * [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp):
-  * **Kernel-based Aggregated Tests (MMDAgg & KSDAgg)**
+  * **Kernel-based Aggregated Tests**
+    * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
+    * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * Tuesday 22th February 2022, 9am GMT
   * [Event link](https://aip.riken.jp/events/event_131267/)
-  * [Paper](https://arxiv.org/pdf/2110.15073.pdf)
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf)
   * [Slides (handout)](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides.pdf)
   <!-- * [Recording](https://youtube/) -->
