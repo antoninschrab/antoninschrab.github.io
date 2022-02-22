@@ -4,7 +4,8 @@ permalink: /talks/
 author_profile: true
 ---
  
-* [High-dimensional Statistical Modeling Team Seminar](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_stat_model/) ([RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp)):
+* [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp):
+  * [High-dimensional Statistical Modeling Team Seminar](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_stat_model/)  
   * **Kernel-based Aggregated Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
