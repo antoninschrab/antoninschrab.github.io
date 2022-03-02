@@ -12,6 +12,6 @@ author_profile: true
   * Tuesday 22th February 2022, 9am GMT
   * [Event link](https://aip.riken.jp/events/event_131267/)
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf) & [Slides (handout)](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides.pdf)
-  <!-- * [Recording](https://youtube/) -->
+  * [Recording](https://youtu.be/F0VOCrAf5_M)
 
 <img align="middle" src="https://antoninschrab.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
