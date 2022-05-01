@@ -18,6 +18,12 @@ redirect_from:
 
 <br>
 
+* 2018--2019: [MicroMasters Program in 
+Statistics and Data Science](https://micromasters.mit.edu/ds/)
+  * MITx, Massachusetts Institute of Technology (online)
+
+<br>
+
 * 2014--2018: [MMath in Mathematics](https://www.maths.ox.ac.uk/study-here/undergraduate-study/which-course/mathematics)
   * [Mathematical Institute](https://www.maths.ox.ac.uk), University of Oxford
   * [St Hilda's College](https://www.st-hildas.ox.ac.uk), University of Oxford
