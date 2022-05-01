@@ -25,7 +25,7 @@ author_profile: true
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
-<br/>
+
 * [AI UK 2022: The Alan Turing Institute](https://www.turing.ac.uk/ai-uk)
   * 22--23 March 2022, online
   * CDT/DTP Student Poster Presentations and Networking
