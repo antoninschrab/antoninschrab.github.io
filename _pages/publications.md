@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<br/>
+
 My publications can be found on the following systems:
 
 * <i class="ai ai-fw ai-arxiv" style="color:#B11E22"></i> <a href="{{ site.author.arxiv }}"> arXiv</a>
@@ -19,6 +21,8 @@ My publications can be found on the following systems:
 The code for my publications is publicly available on:
 * <i class="fa fa-fw fa-github" style="color:#6e5494"></i> <a href="https://github.com/antoninschrab"> Github</a>
 
+<br/>
+
 <div id="bibbase">
 <script src="https://bibbase.org/show?bib=https://antoninschrab.github.io/files/aschrab-publications.bib&jsonp=1&nocache=1&theme=default">
 </script>
@@ -28,5 +32,7 @@ The code for my publications is publicly available on:
 document.getElementById("bibbase").style.color = "#0f0047";
 document.getElementById("bibbase").style.backgroundColor = "#ffffff";
 </script>
+
+<br/>
 
 <img align="middle" src="https://antoninschrab.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
