@@ -7,9 +7,7 @@ author_profile: true
 * [Centre Borelli, École Normale Supérieure, Paris-Saclay](https://centreborelli.ens-paris-saclay.fr/en)
   * 31 May 2022, Paris, France
   * [Machine Learning and Massive Data Analysis Seminar](https://centreborelli.ens-paris-saclay.fr/en/SMLMDA)
-  * **Kernel-based Aggregated Tests**
-    * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
-    * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+  * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf) & [Slides (handout)](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides.pdf)
 
 <br/>
@@ -19,6 +17,7 @@ author_profile: true
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf) & [Slides (handout)](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
 
+<br/>
 
 * [Workshop on Functional Inference and Machine Intelligence (FIMI)](https://ismseminar.github.io/fimi2022/)
   * 29--31 March 2022, online
@@ -28,6 +27,8 @@ author_profile: true
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
 
+<br/>
+
 * [AI UK 2022: The Alan Turing Institute](https://www.turing.ac.uk/ai-uk)
   * 22--23 March 2022, online
   * CDT/DTP Student Poster Presentations and Networking
@@ -35,6 +36,8 @@ author_profile: true
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
+
+<br/>
 
 * [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp)
   * 22 February 2022, online
@@ -46,8 +49,18 @@ author_profile: true
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf) & [Slides (handout)](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides.pdf)
   * [Recording](https://youtu.be/F0VOCrAf5_M)
 
+<br/>
+
 * [Meeting in Mathematical Statistics 2021](https://conferences.cirm-math.fr/2581.html): Machine Learning and Nonparametric Statistics
   * 12--17 December 2021, Marseille, France
   * [Centre International de Rencontres Mathématiques (CIRM)](https://www.cirm-math.com)
 
+<br/>
+
 <img align="middle" src="https://antoninschrab.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+
+<
+  * **Kernel-based Aggregated Tests**
+    * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
+    * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+>
