@@ -4,8 +4,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-<br/>
-
 **Centre for Artificial Intelligence, UCL**
 <br>
 90 High Holborn
