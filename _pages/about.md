@@ -8,6 +8,8 @@ redirect_from:
   - /home.html
 ---
 
+A short biography can be found [here](https://antoninschrab.github.io/bio/).
+
 <br/>
 
 <!--I am a PhD student on the [Foundational Artifical Intelligence CDT](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd) working on PAC-Bayes and kernel methods with [Benjamin Guedj](https://bguedj.github.io) at the [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) and [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/) at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
