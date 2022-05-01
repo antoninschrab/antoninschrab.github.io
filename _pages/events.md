@@ -10,14 +10,14 @@ author_profile: true
   * 31 May 2022, Paris, France
   * [Machine Learning and Massive Data Analysis Seminar](https://centreborelli.ens-paris-saclay.fr/en/SMLMDA)
   * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
-  * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf)
+  * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_mid.pdf)
 
 <br/>
 
 * **UKRI CDT Showcase: Cumberland Lodge Retreat**
   * 5--7 April 2022, Windsor, England
   * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
-  * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf)
+  * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_mid.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
 
 <br/>
@@ -27,6 +27,7 @@ author_profile: true
   * Poster session
   * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
+  * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_short.pdf)
 
 <br/>
 
@@ -43,7 +44,7 @@ author_profile: true
   * [High-dimensional Statistical Modeling Team Seminar](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_stat_model/)  
   * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Event link](https://aip.riken.jp/events/event_131267/)
-  * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf)
+  * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_long.pdf)
   * [Recording](https://youtu.be/F0VOCrAf5_M)
 
 <br/>
