@@ -11,12 +11,13 @@ author_profile: true
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf) & [Slides (handout)](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides.pdf)
-
+\
 * UKRI CDT Showcase: Cumberland Lodge Retreat
   * 5--7 April 2022
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf) & [Slides (handout)](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
-
+\
+\
 * [Workshop on Functional Inference and Machine Intelligence (FIMI)](https://ismseminar.github.io/fimi2022/)
   * 29--31 March 2022, online
   * Poster session
