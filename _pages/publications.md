@@ -19,7 +19,7 @@ author_profile: true
 The code for my publications is publicly available on:
 * <i class="fa fa-fw fa-github" style="color:#6e5494"></i> <a href="https://github.com/antoninschrab"> Github</a>
 
-<br/>
+<br>
 
 <div id="bibbase">
 <script src="https://bibbase.org/show?bib=https://antoninschrab.github.io/files/aschrab-publications.bib&jsonp=1&nocache=1&theme=default">
