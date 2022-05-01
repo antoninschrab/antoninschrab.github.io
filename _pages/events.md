@@ -4,7 +4,7 @@ permalink: /events/
 author_profile: true
 ---
 
-* Centre Borelli, École Normale Supérieure, Paris-Saclay(https://centreborelli.ens-paris-saclay.fr/en)
+* [Centre Borelli, École Normale Supérieure, Paris-Saclay](https://centreborelli.ens-paris-saclay.fr/en)
   * 31 May 2022, Paris, France
   * [Machine Learning and Massive Data Analysis Seminar](https://centreborelli.ens-paris-saclay.fr/en/SMLMDA)
   * **Kernel-based Aggregated Tests**
