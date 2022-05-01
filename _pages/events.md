@@ -15,7 +15,7 @@ author_profile: true
 <br/>
 
 * **UKRI CDT Showcase: Cumberland Lodge Retreat**
-  * 5--7 April 2022
+  * 5--7 April 2022, Windsor, England
   * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
