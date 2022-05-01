@@ -4,16 +4,19 @@ permalink: /contact/
 author_profile: true
 ---
 
-UCL Centre for Artificial Intelligence
+<br/>
+
+**Centre for Artificial Intelligence, UCL**
 <br>
 90 High Holborn
 <br> 
 London WC1V 6LJ
 <br> 
 United Kingdom
-<br>
-<br>
-Gatsby Computational Neuroscience Unit
+
+<br/>
+
+**Gatsby Computational Neuroscience Unit, UCL**
 <br>
 Sainsbury Wellcome Centre
 <br>
@@ -22,6 +25,8 @@ Sainsbury Wellcome Centre
 London W1T 4JG
 <br> 
 United Kingdom
+
+<br/>
 
 <!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4965.579778013099!2d-0.12450412319706675!3d51.51707062522409!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b3585a9c137%3A0xffe1d0c346654ca5!2s90%20High%20Holborn%2C%20Holborn%2C%20London%20WC1V%206LJ!5e0!3m2!1sfr!2suk!4v1588107506410!5m2!1sfr!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
