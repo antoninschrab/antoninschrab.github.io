@@ -59,8 +59,8 @@ author_profile: true
 
 <img align="middle" src="https://antoninschrab.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
-<
+<!--
   * **Kernel-based Aggregated Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
->
+-->
