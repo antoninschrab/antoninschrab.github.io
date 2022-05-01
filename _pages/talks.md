@@ -1,7 +1,7 @@
 ---
 title: "Talks"
 permalink: /talks/
-author_profile: true
+author_profile: false
 ---
  
 * [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp):
