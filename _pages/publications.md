@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<br/>
-
 My publications can be found on the following systems:
 
 * <i class="ai ai-fw ai-arxiv" style="color:#B11E22"></i> <a href="{{ site.author.arxiv }}"> arXiv</a>
