@@ -4,7 +4,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-**Centre for Artificial Intelligence, UCL**
+<br>[**Centre for Artificial Intelligence, UCL**](https://www.ucl.ac.uk/ai-centre/)
 <br>
 90 High Holborn
 <br> 
@@ -14,7 +14,7 @@ United Kingdom
 
 <br/>
 
-**Gatsby Computational Neuroscience Unit, UCL**
+[**Gatsby Computational Neuroscience Unit, UCL**](https://www.ucl.ac.uk/gatsby/)
 <br>
 Sainsbury Wellcome Centre
 <br>
