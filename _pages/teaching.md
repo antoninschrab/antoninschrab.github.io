@@ -3,8 +3,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-<br/>
  
 * [UCL COMP0078 Supervised Learning](https://www.ucl.ac.uk/module-catalogue/modules/supervised-learning/COMP0078): Lead Teaching Assistant
   * 2020--2021 Term 1
