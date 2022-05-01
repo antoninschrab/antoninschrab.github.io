@@ -10,7 +10,7 @@ author_profile: true
   * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_mid.pdf)
 
-<br/>
+<br>
 
 * **UKRI CDT Showcase: Cumberland Lodge Retreat**
   * 5--7 April 2022, Windsor, England
@@ -18,7 +18,7 @@ author_profile: true
   * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_mid.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
 
-<br/>
+<br>
 
 * [**Workshop on Functional Inference and Machine Intelligence (FIMI)**](https://ismseminar.github.io/fimi2022/)
   * 29--31 March 2022, online
@@ -27,7 +27,7 @@ author_profile: true
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_short.pdf)
 
-<br/>
+<br>
 
 * [**AI UK 2022: The Alan Turing Institute**](https://www.turing.ac.uk/ai-uk)
   * 22--23 March 2022, online
@@ -35,7 +35,7 @@ author_profile: true
   * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
 
-<br/>
+<br>
 
 * [**RIKEN Center for Advanced Intelligence Project (AIP)**](https://aip.riken.jp)
   * 22 February 2022, online
@@ -45,7 +45,7 @@ author_profile: true
   * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_long.pdf)
   * [Recording](https://youtu.be/F0VOCrAf5_M)
 
-<br/>
+<br>
 
 * [**Meeting in Mathematical Statistics 2021: Machine Learning and Nonparametric Statistics**](https://conferences.cirm-math.fr/2581.html)
   * 12--17 December 2021, Marseille, France
