@@ -16,6 +16,7 @@ author_profile: true
 
 * UKRI CDT Showcase: Cumberland Lodge Retreat
   * 5--7 April 2022
+  * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf) & [Slides (handout)](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
 
@@ -24,9 +25,7 @@ author_profile: true
 * [Workshop on Functional Inference and Machine Intelligence (FIMI)](https://ismseminar.github.io/fimi2022/)
   * 29--31 March 2022, online
   * Poster session
-  * **Kernel-based Aggregated Tests**
-    * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
-    * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+  * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
 
 <br/>
@@ -34,9 +33,7 @@ author_profile: true
 * [AI UK 2022: The Alan Turing Institute](https://www.turing.ac.uk/ai-uk)
   * 22--23 March 2022, online
   * CDT/DTP Student Poster Presentations and Networking
-  * **Kernel-based Aggregated Tests**
-    * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
-    * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+  * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
 
 <br/>
@@ -44,9 +41,7 @@ author_profile: true
 * [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp)
   * 22 February 2022, online
   * [High-dimensional Statistical Modeling Team Seminar](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_stat_model/)  
-  * **Kernel-based Aggregated Tests**
-    * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
-    * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+  * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Event link](https://aip.riken.jp/events/event_131267/)
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf) & [Slides (handout)](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides.pdf)
   * [Recording](https://youtu.be/F0VOCrAf5_M)
