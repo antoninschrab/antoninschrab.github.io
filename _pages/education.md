@@ -11,12 +11,13 @@ redirect_from:
   * [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/), UCL
   * [Inria London](https://london.inria.fr)
 
-<br/>
+<br>
+<br>
 
 * 2019--2020: [MSc in Machine Learning](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/machine-learning-msc)
   * [Computer Science](https://www.ucl.ac.uk/computer-science/), UCL
 
-<br/>
+<br>
 
 * 2014--2018: [MMath in Mathematics](https://www.maths.ox.ac.uk/study-here/undergraduate-study/which-course/mathematics)
   * [Mathematical Institute](https://www.maths.ox.ac.uk), University of Oxford
