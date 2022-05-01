@@ -1,11 +1,7 @@
 ---
-permalink: /
 title: "Bio"
-excerpt: "Bio"
+permalink: /bio/
 author_profile: true
-redirect_from: 
-  - /bio/
-  - /bio.html
 ---
 
 <br/>
