@@ -19,6 +19,7 @@ author_profile: true
   * [Slides](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides_handout.pdf) & [Slides (handout)](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Slides.pdf)
   * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
 
+
 * [Workshop on Functional Inference and Machine Intelligence (FIMI)](https://ismseminar.github.io/fimi2022/)
   * 29--31 March 2022, online
   * Poster session
