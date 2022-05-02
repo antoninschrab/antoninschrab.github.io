@@ -16,11 +16,13 @@ redirect_from:
 * 2019--2020: [MSc in Machine Learning](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/machine-learning-msc)
   * [Computer Science](https://www.ucl.ac.uk/computer-science/), UCL
 
+<!--
 <br>
 
 * 2018--2019: [MicroMasters Program in 
 Statistics and Data Science](https://micromasters.mit.edu/ds/)
   * MITx, Massachusetts Institute of Technology (online)
+-->
 
 <br>
 
