@@ -4,6 +4,14 @@ permalink: /events/
 author_profile: true
 ---
 
+* **Foundational AI CDT Showcase**
+  * 23 June 2022, London, England
+  * Poster session
+  * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+  * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
+
+<br>
+
 * [**Centre Borelli, École Normale Supérieure, Paris-Saclay**](https://centreborelli.ens-paris-saclay.fr/en)
   * 31 May 2022, Paris, France
   * [Machine Learning and Massive Data Analysis Seminar](https://centreborelli.ens-paris-saclay.fr/en/SMLMDA)
@@ -58,6 +66,14 @@ author_profile: true
 * [**Meeting in Mathematical Statistics 2021: Machine Learning and Nonparametric Statistics**](https://conferences.cirm-math.fr/2581.html)
   * 12--17 December 2021, Marseille, France
   * [Centre International de Rencontres Mathématiques (CIRM)](https://www.cirm-math.com)
+
+<br/>
+
+* [**Gatsby Computational Neuroscience Unit: Quinquennial Review**](https://www.ucl.ac.uk/gatsby/)
+  * 21--23 September 2021, London, England
+  * Poster session & presentation
+  * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
+  * [Poster](https://antoninschrab.github.io/files/MMDAgg_Poster.pdf)
 
 <br/>
 
