@@ -12,6 +12,14 @@ author_profile: true
 
 <br>
 
+* [**The Alan Turing Institute**](https://www.turing.ac.uk/)
+  * 13 May 2022, London, England
+  * CDT/DTP Student Presentations and Networking
+  * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+  * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_mid.pdf)
+
+<br>
+
 * **UKRI CDT Showcase: Cumberland Lodge Retreat**
   * 5--7 April 2022, Windsor, England
   * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf) & [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
