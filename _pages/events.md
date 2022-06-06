@@ -17,7 +17,7 @@ author_profile: true
 * [**Centre Borelli, École Normale Supérieure, Paris-Saclay**](https://centreborelli.ens-paris-saclay.fr/en)
   * 31 May 2022, Paris, France
   * [Machine Learning and Massive Data Analysis Seminar](https://centreborelli.ens-paris-saclay.fr/en/SMLMDA)
-  * Kernel Aggregated Tests
+  * **Kernel Aggregated Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides-31-05-22.pdf)
@@ -27,7 +27,7 @@ author_profile: true
 * [**The Alan Turing Institute**](https://www.turing.ac.uk/)
   * 13 May 2022, London, England
   * CDT/DTP Student Presentations and Networking
-  * Kernel Aggregated Tests
+  * **Kernel Aggregated Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_mid.pdf)
@@ -36,29 +36,31 @@ author_profile: true
 
 * **UKRI CDT Showcase: Cumberland Lodge Retreat**
   * 5--7 April 2022, Windsor, England
-  * Kernel Aggregated Tests
+  * **Kernel Aggregated Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_mid.pdf)
   * [Poster](https://antoninschrab.github.io/files/Poster_MMDAgg_KSDAgg.pdf)
+  * [Recording](https://www.youtube.com/watch?v=OWh6Hj10wsY)
 
 <br>
 
 * [**Workshop on Functional Inference and Machine Intelligence (FIMI)**](https://ismseminar.github.io/fimi2022/)
   * 29--31 March 2022, online
   * Poster session
-  * Kernel Aggregated Tests
+  * **Kernel Aggregated Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
-  * [Poster](https://antoninschrab.github.io/files/MMDAgg_KSDAgg_Poster.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_short.pdf)
+  * [Poster](https://antoninschrab.github.io/files/Poster_MMDAgg_KSDAgg.pdf)
+
 
 <br>
 
 * [**AI UK 2022: The Alan Turing Institute**](https://www.turing.ac.uk/ai-uk)
   * 22--23 March 2022, online
   * CDT/DTP Student Poster Presentations and Networking
-  * Kernel Aggregated Tests
+  * **Kernel Aggregated Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Poster](https://antoninschrab.github.io/files/Poster_MMDAgg_KSDAgg.pdf)
@@ -68,7 +70,7 @@ author_profile: true
 * [**RIKEN Center for Advanced Intelligence Project (AIP)**](https://aip.riken.jp)
   * 22 February 2022, online
   * [High-dimensional Statistical Modeling Team Seminar](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_stat_model/)  
-  * Kernel Aggregated Tests
+  * **Kernel Aggregated Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Event link](https://aip.riken.jp/events/event_131267/)
@@ -86,7 +88,7 @@ author_profile: true
 * [**Gatsby Computational Neuroscience Unit: Quinquennial Review**](https://www.ucl.ac.uk/gatsby/)
   * 21--23 September 2021, London, England
   * Poster session & presentation
-  * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
+  * [**MMD Aggregated Two-Sample Test**](https://arxiv.org/pdf/2110.15073.pdf)
   * [Poster](https://antoninschrab.github.io/files/Poster_MMDAgg.pdf)
 
 <br/>
