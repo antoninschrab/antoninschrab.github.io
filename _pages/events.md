@@ -15,6 +15,13 @@ author_profile: true
 
 <br>
 
+* [**COLT 2022: Conference on Learning Theory**](http://learningtheory.org/colt2022/)
+  * 1--5 July 2022, London, England
+  * [The Royal Institution of Great Britain](https://venue.rigb.org)
+  * COLT-IMS Joint Workshop: [Institute of Mathematical Statistics (IMS)](https://www.imsannualmeeting-london2022.com)
+
+<br>
+
 * [**Centre Borelli, École Normale Supérieure, Paris-Saclay**](https://centreborelli.ens-paris-saclay.fr/en)
   * 31 May 2022, Paris, France
   * [Machine Learning and Massive Data Analysis Seminar](https://centreborelli.ens-paris-saclay.fr/en/SMLMDA)
