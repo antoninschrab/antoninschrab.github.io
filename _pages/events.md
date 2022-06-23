@@ -5,12 +5,13 @@ author_profile: true
 ---
 
 * **Foundational AI CDT Showcase**
-  * 23 June 2022, London, England
+  * 1 November 2022, London, England
   * Poster session
-  * **Kernel-based Aggregated Tests**
+  * **Kernel Aggregated Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
-  * [Poster](https://antoninschrab.github.io/files/Poster_MMDAgg_KSDAgg.pdf)
+    * [Efficient Aggregated Kernel Tests using Incomplete U-statistics](https://arxiv.org/abs/2206.09194)
+  * [Poster](https://antoninschrab.github.io/files/Simplified_Poster.pdf)
 
 <br>
 
