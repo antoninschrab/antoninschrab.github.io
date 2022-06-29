@@ -58,6 +58,9 @@
       {% if author.semanticscholar %}
         <li><a href="{{ author.semanticscholar }}"><i class="ai ai-fw ai-semantic-scholar" aria-hidden="true" style="padding-right: 1.5em;"></i>Semantic Scholar</a></li>
       {% endif %}
+      {% if author.paperswithcode %}
+        <li><a href="{{ author.paperswithcode }}"><i class="fa fa-fw fa-barcode" aria-hidden="true" style="padding-right: 1.5em;"></i>Papers with Code</a></li>
+      {% endif %}
       {% if author.publons %}
         <li><a href="{{ author.publons }}"><i class="ai ai-fw ai-publons" aria-hidden="true" style="padding-right: 1.5em;"></i>Publons</a></li>
       {% endif %}
