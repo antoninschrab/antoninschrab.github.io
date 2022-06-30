@@ -15,6 +15,16 @@ author_profile: true
 
 <br>
 
+* [**GOFCP 2022: 5th Workshop on Goodness-of-Fit, Change-Point and Related Problems**](https://ensai.fr/en/event/gofcp-2022/)
+  * 2--4 September 2022, Rennes, France
+  * [ENSAI](https://ensai.fr/en/): École Nationale de la Statistique de l'Analyse de l'Informatique
+  * **KSD Aggregated Kernel Tests**
+    * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+    * [Efficient Aggregated Kernel Tests using incomplete $U$-statistics](https://arxiv.org/pdf/2206.09194.pdf)
+  * Poster
+
+<br>
+
 * [**COLT 2022: Conference on Learning Theory**](http://learningtheory.org/colt2022/)
   * 1--5 July 2022, London, England
   * [The Royal Institution of Great Britain](https://venue.rigb.org)
@@ -25,9 +35,10 @@ author_profile: true
 * [**Centre Borelli, École Normale Supérieure, Paris-Saclay**](https://centreborelli.ens-paris-saclay.fr/en)
   * 31 May 2022, Paris, France
   * [Machine Learning and Massive Data Analysis Seminar](https://centreborelli.ens-paris-saclay.fr/en/SMLMDA)
-  * **Kernel Aggregated Tests**
+  * **Aggregated Kernel Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+    * [Efficient Aggregated Kernel Tests using incomplete $U$-statistics](https://arxiv.org/pdf/2206.09194.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides-31-05-22.pdf)
 
 <br>
@@ -35,7 +46,7 @@ author_profile: true
 * [**The Alan Turing Institute**](https://www.turing.ac.uk/)
   * 13 May 2022, London, England
   * CDT/DTP Student Presentations and Networking
-  * **Kernel Aggregated Tests**
+  * **Aggregated Kernel Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_mid.pdf)
@@ -44,7 +55,7 @@ author_profile: true
 
 * **UKRI CDT Showcase: Cumberland Lodge Retreat**
   * 5--7 April 2022, Windsor, England
-  * **Kernel Aggregated Tests**
+  * **Aggregated Kernel Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_mid.pdf)
@@ -56,7 +67,7 @@ author_profile: true
 * [**Workshop on Functional Inference and Machine Intelligence (FIMI)**](https://ismseminar.github.io/fimi2022/)
   * 29--31 March 2022, online
   * Poster session
-  * **Kernel Aggregated Tests**
+  * **Aggregated Kernel Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_MMDAgg_KSDAgg_short.pdf)
@@ -68,7 +79,7 @@ author_profile: true
 * [**AI UK 2022: The Alan Turing Institute**](https://www.turing.ac.uk/ai-uk)
   * 22--23 March 2022, online
   * CDT/DTP Student Poster Presentations and Networking
-  * **Kernel Aggregated Tests**
+  * **Aggregated Kernel Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Poster](https://antoninschrab.github.io/files/Poster_MMDAgg_KSDAgg.pdf)
@@ -78,7 +89,7 @@ author_profile: true
 * [**RIKEN Center for Advanced Intelligence Project (AIP)**](https://aip.riken.jp)
   * 22 February 2022, online
   * [High-dimensional Statistical Modeling Team Seminar](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_stat_model/)  
-  * **Kernel Aggregated Tests**
+  * **Aggregated Kernel Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
   * [Event link](https://aip.riken.jp/events/event_131267/)
