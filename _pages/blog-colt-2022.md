@@ -27,7 +27,7 @@ Other events were also organised such as the LeT-All career panel providing advi
 
 COLT 2022 was made possible thanks to the organizing committee: program chair [Po-Ling Loh](https://www.dpmms.cam.ac.uk/~pll28/) from [University of Cambridge](https://www.cam.ac.uk), program chair [Maxim Raginsky](https://maxim.ece.illinois.edu/) from [University of Illinois at Urbana-Champaign](https://illinois.edu), local chair [Benjamin Guedj](https://bguedj.github.io/) from [Inria](https://www.inria.fr/en) and [University College London](https://www.ucl.ac.uk/ai-centre/), local chair [Ciara Pike-Burke](https://www.ma.imperial.ac.uk/~cpikebur/) from [Imperial College London](https://www.imperial.ac.uk), open problems chair [Clément Canonne](https://ccanonne.github.io/) from [University of Sydney](https://www.sydney.edu.au), online experience chair [Claire Vernade](https://www.cvernade.com/) from [DeepMind](https://www.deepmind.com), and publication chair [Suriya Gunasekar](https://sgunasekar.github.io/) from [Microsoft Research](https://www.microsoft.com/en-us/research/).
 
-I am looking forward to COLT 2023!
+I am now looking forward to COLT 2023!
 
 <br/>
 
