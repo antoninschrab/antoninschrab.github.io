@@ -15,6 +15,31 @@ author_profile: true
 
 <br>
 
+* [**ELLIS Doctoral Symposium 2022**](https://ellisalicante.org/eds2022/)
+  * 19--23 September 2022, Alicante, Spain
+  * [ELLIS](https://ellis.eu): European Laboratory for Learning and Intelligent Systems
+  * [UA](https://www.ua.es/en/): University of Alicante
+  * **Aggregated Kernel Tests**
+    * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
+    * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+    * [Efficient Aggregated Kernel Tests using incomplete $U$-statistics](https://arxiv.org/pdf/2206.09194.pdf)
+  * Poster
+
+<br>
+
+* [**ELISE Theory Workshop on Machine Learning Fundamentals**](https://sites.google.com/view/mlf2022/home)
+  * 5--7 September 2022, Sophia Antipolis, France
+  * [ELISE](https://www.elise-ai.eu): European Network of AI Excellence Centres  
+  * [EURECOM](https://www.eurecom.fr/en): École d'Ingénieur et Centre de Recherche en Sciences du Numérique
+  * [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu): Interdisciplinary Institute for Artificial Intelligence
+  * **Aggregated Kernel Tests**
+    * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
+    * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+    * [Efficient Aggregated Kernel Tests using incomplete $U$-statistics](https://arxiv.org/pdf/2206.09194.pdf)
+  * [Slides](https://antoninschrab.github.io/files/Slides-31-05-22.pdf)
+
+<br>
+
 * [**GOFCP 2022: 5th Workshop on Goodness-of-Fit, Change-Point and Related Problems**](https://ensai.fr/en/event/gofcp-2022/)
   * 2--4 September 2022, Rennes, France
   * [ENSAI](https://ensai.fr/en/): École Nationale de la Statistique de l'Analyse de l'Informatique
