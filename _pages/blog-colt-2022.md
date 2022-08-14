@@ -4,7 +4,7 @@ permalink: /blog-colt-2022/
 author_profile: true
 ---
 
-<img align="middle" src="https://antoninschrab.github.io/files/bguedj-colt.jpeg?raw=true" alt="Photo" style="width: 5000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
+<img align="middle" src="https://antoninschrab.github.io/files/bguedj-colt.jpeg?raw=true" alt="Photo" style="width: 500px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
 
 « COLT has been the prime annual meeting of the growing learning theory community for 35 years now, and that London edition has been beyond our expectations. We have been planning COLT 2022 since late 2019, and due to Covid it was unclear until a few weeks before the conference how many people would be able or willing to join. Our optimistic scenario was 150 on site attendees — we ended up at more than 270! COLT 2022 featured the higher number ever of papers (155) in a dual track format. I am especially proud that over 50% of attendees were MSc, PhD and postdocs: COLT has long been a welcoming and inclusive forum for early-career researchers. As local chair, COLT has eaten up a lot of my days and nights recently, but it certainly was worth it! » [Benjamin Guedj](https://bguedj.github.io/), [Inria](https://www.inria.fr/en) and [University College London](https://www.ucl.ac.uk/ai-centre/), COLT 2022 Local Chair.
 
