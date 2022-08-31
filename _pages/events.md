@@ -46,7 +46,7 @@ author_profile: true
   * **KSD Aggregated Kernel Tests**
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
     * [Efficient Aggregated Kernel Tests using incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf)
-  * [Slides](https://antoninschrab.github.io/files/Slides-03-09-22.pdf)
+  * [Slides](https://antoninschrab.github.io/files/Slides_handout-03-09-22.pdf)
   * [Poster](https://antoninschrab.github.io/files/Poster-03-09-22.pdf) 
 
 
@@ -66,7 +66,7 @@ author_profile: true
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
     * [Efficient Aggregated Kernel Tests using incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf)
-  * [Slides](https://antoninschrab.github.io/files/Slides-31-05-22.pdf)
+  * [Slides](https://antoninschrab.github.io/files/Slides_handout-31-05-22.pdf)
 
 <br>
 
