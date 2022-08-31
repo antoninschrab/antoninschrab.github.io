@@ -22,7 +22,7 @@ author_profile: true
   * **Aggregated Kernel Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
-    * [Efficient Aggregated Kernel Tests using incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf)
+    * [Efficient Aggregated Kernel Tests using Incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf)
   * Poster
 
 <br>
@@ -45,7 +45,7 @@ author_profile: true
   * [ENSAI](https://ensai.fr/en/): École Nationale de la Statistique de l'Analyse de l'Informatique
   * **KSD Aggregated Kernel Tests**
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
-    * [Efficient Aggregated Kernel Tests using incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf)
+    * [Efficient Aggregated Kernel Tests using Incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_handout-03-09-22.pdf)
   * [Poster](https://antoninschrab.github.io/files/Poster-03-09-22.pdf) 
 
@@ -65,7 +65,7 @@ author_profile: true
   * **Aggregated Kernel Tests**
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
-    * [Efficient Aggregated Kernel Tests using incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf)
+    * [Efficient Aggregated Kernel Tests using Incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_handout-31-05-22.pdf)
 
 <br>
