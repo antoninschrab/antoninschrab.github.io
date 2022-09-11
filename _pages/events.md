@@ -14,7 +14,7 @@ author_profile: true
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
     * [Efficient Aggregated Kernel Tests using Incomplete U-statistics](https://arxiv.org/abs/2206.09194)
-  * [Poster](https://antoninschrab.github.io/files/Simplified_Poster.pdf)
+  * [Poster](https://antoninschrab.github.io/files/Poster-03-09-22.pdf) 
 
 <br>
 
