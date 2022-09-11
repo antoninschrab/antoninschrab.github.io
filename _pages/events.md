@@ -4,6 +4,20 @@ permalink: /events/
 author_profile: true
 ---
 
+* **UKRI Inter AI CDT Conference**
+  * 7--8 November 2022, Bristol, England
+  * [Foundational Artificial Intelligence CDT (UCL)](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd)
+  * [Interactive Artificial Intelligence CDT (University of Bristol)](https://www.bristol.ac.uk/cdt/interactive-ai/)
+  * [Accountable, Responsible and Transparent AI CDT (University of Bath)](https://cdt-art-ai.ac.uk/)
+  * Poster session
+  * **Kernel Aggregated Tests**
+    * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
+    * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
+    * [Efficient Aggregated Kernel Tests using Incomplete U-statistics](https://arxiv.org/abs/2206.09194)
+  * [Poster](https://antoninschrab.github.io/files/Simplified_Poster.pdf)
+
+<br>
+
 * **Foundational AI CDT Showcase**
   * 1 November 2022, London, England
   * Poster session
@@ -23,7 +37,7 @@ author_profile: true
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
     * [Efficient Aggregated Kernel Tests using Incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf)
-  * Poster
+  * [Poster](https://antoninschrab.github.io/files/Poster-03-09-22.pdf) 
 
 <br>
 
@@ -36,7 +50,7 @@ author_profile: true
     * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073.pdf)
     * [KSD Aggregated Goodness-of-fit Test](https://arxiv.org/pdf/2202.00824.pdf)
     * [Efficient Aggregated Kernel Tests using Incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf)
-  * [Slides](https://antoninschrab.github.io/files/Slides-31-05-22.pdf)
+  * [Slides](https://antoninschrab.github.io/files/Slides_handout-06-09-22.pdf)
 
 <br>
 
