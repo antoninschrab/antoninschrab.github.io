@@ -32,7 +32,7 @@ Talks and poster sessions covered the theory of kernel methods, hypothesis testi
 <img src="https://antoninschrab.github.io/files/eds22.JPG?raw=true" alt="Photo" style="width: 500px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 </center>
 
-Finally, I participated in [EDS 2022](ellisalicante.org/eds2022/), the ELLIS Doctoral Symposium 2022, hosted by the [ELLIS Alicante of Alicante](https://ellisalicante.org) at the [University of Alicante](https://www.ua.es/en/) in Spain from 19th to 23rd September. 
+Finally, I participated in [EDS 2022](ellisalicante.org/eds2022/), the ELLIS Doctoral Symposium 2022, hosted by the [ELLIS Alicante](https://ellisalicante.org) at the [University of Alicante](https://www.ua.es/en/) in Spain from 19th to 23rd September. 
 It was an amazing experience to meet so many other PhD students working on diverse topics in Machine Learning. 
 I especially enjoyed the numerous poster sessions which allowed to engage with other students and discuss their current research!
 
