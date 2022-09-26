@@ -25,7 +25,7 @@ It was extremely interesting to hear about the latest research in this very spec
 <br/>
 
 <center>
-<img src="https://antoninschrab.github.io/files/mlf22.JPG?raw=true" alt="Photo" style="width: 500px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img src="https://antoninschrab.github.io/files/mlf22.jpeg?raw=true" alt="Photo" style="width: 500px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 </center>
 
 I then went to [EURECOM](https://www.eurecom.fr/en) in Sophia Antipolis (France) for [MLF 2022]](sites.google.com/view/mlf2022/home), the ELISE Theory Workshop on Machine Learning Fundamentals, from 5th to 7th September. 
