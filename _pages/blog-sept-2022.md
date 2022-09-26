@@ -13,25 +13,28 @@ The third one is [Efficient Aggregated Kernel Tests using Incomplete U-statistic
 We tackle these three testing problems using kernel-based statistics, in such a setting the performance of these tests is known to heavily depend on the choice of kernels or kernel parameters (i.e. bandwidth parameter).
 We propose tests which aggregate over a collection of kernels and retain test power, we theoretically prove optimality of our tests under some regularity assumptions, and empirically show that our tests outperform other state-of-the-art kernel-based tests.
 
+<br/>
+
 <center>
 <img src="https://antoninschrab.github.io/files/gofcp22.JPG?raw=true" alt="Photo" style="width: 500px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-*GOFCP 2022*
 </center>
 
 I started the month of September by participating in [GOFCP 2022](ensai.fr/en/event/gofcp-2022/), the 5th Workshop on Goodness-of-Fit, Change-Point and related problems from 2nd to 4th September in [ENSAI](https://ensai.fr/en/) in Rennes (France).
 It was extremely interesting to hear about the latest research in this very specific research field which covers exactly the topics I had been working on since the start of my PhD.
 
+<br/>
+
 <center>
-<img src="https://antoninschrab.github.io/files/eds22.JPG?raw=true" alt="Photo" style="width: 500px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-*MLF 2022*
+<img src="https://antoninschrab.github.io/files/mlf22.JPG?raw=true" alt="Photo" style="width: 500px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 </center>
 
 I then went to [EURECOM](https://www.eurecom.fr/en) in Sophia Antipolis (France) for [MLF 2022]](sites.google.com/view/mlf2022/home), the ELISE Theory Workshop on Machine Learning Fundamentals, from 5th to 7th September. 
 Talks and poster sessions covered the theory of kernel methods, hypothesis testing, partial differential equations, optimisation, Gaussian processes, explainability and safety.
 
+<br/>
+
 <center>
-<img src="https://antoninschrab.github.io/files/mlf22.JPG?raw=true" alt="Photo" style="width: 500px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-*EDS 2022*
+<img src="https://antoninschrab.github.io/files/eds22.JPG?raw=true" alt="Photo" style="width: 500px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 </center>
 
 Finally, I participated in [EDS 2022](ellisalicante.org/eds2022/) the ELLIS Doctoral Symposium 2022, from 19th to 23rd September hosted by the [University of Alicante]() in Spain. 
