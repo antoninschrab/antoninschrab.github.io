@@ -25,7 +25,7 @@ It was extremely interesting to hear about the latest research in this very spec
 <img src="https://antoninschrab.github.io/files/mlf22.jpg?raw=true" alt="Photo" style="width: 500px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 </center>
 
-I then went to [EURECOM](https://www.eurecom.fr/en) in Sophia Antipolis (France) for [MLF 2022]](sites.google.com/view/mlf2022/home), the ELISE Theory Workshop on Machine Learning Fundamentals, from 5th to 7th September. 
+I then went to [EURECOM](https://www.eurecom.fr/en) in Sophia Antipolis (France) for [MLF 2022](sites.google.com/view/mlf2022/home), the ELISE Theory Workshop on Machine Learning Fundamentals, from 5th to 7th September. 
 Talks and poster sessions covered the theory of kernel methods, hypothesis testing, partial differential equations, optimisation, Gaussian processes, explainability and AI safety.
 
 <center>
