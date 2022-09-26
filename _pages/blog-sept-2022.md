@@ -1,5 +1,5 @@
 ---
-title: "Blog: September 2022 Workshops"
+title: "Blog: GOFCP, MLF & EDS 2022"
 permalink: /blog-sept-2022/
 author_profile: true
 ---
