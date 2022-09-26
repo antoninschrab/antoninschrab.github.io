@@ -4,6 +4,7 @@ permalink: /blog-sept-2022/
 author_profile: true
 ---
 
+
 This September 2022 I've had the amazing opportunity to participate in workshops in Rennes and in Sophia Antipolis, and in the a doctoral symposium in Alicante!
 
 In a combination or poster sessions and talks, I have presented my work on Aggregated Kernel Tests which covers three of my papers.
