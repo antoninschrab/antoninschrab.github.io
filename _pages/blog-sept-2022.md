@@ -4,7 +4,11 @@ permalink: /blog-sept-2022/
 author_profile: true
 ---
 
+<br/>
+
 This September 2022 I've had the amazing opportunity to participate in workshops in Rennes and in Sophia Antipolis, and in the a doctoral symposium in Alicante!
+
+<br/>
 
 In a combination or poster sessions and talks, I have presented my work on Aggregated Kernel Tests which covers three of my papers.
 The first one is [MMD Aggregated Two-Sample Test](https://arxiv.org/abs/2110.15073) where the two-sample problem is considered, in which one has access to samples from two distributions and is interested in detecting whether those come from the same or different distributions. 
@@ -40,6 +44,8 @@ Talks and poster sessions covered the theory of kernel methods, hypothesis testi
 Finally, I participated in [EDS 2022](ellisalicante.org/eds2022/) the ELLIS Doctoral Symposium 2022, from 19th to 23rd September hosted by the [University of Alicante]() in Spain. 
 It was an amazing experience to meet so many other PhD students working in Machine Learning. 
 I especially enjoyed the numerous poster sessions which allowed to engage with other students discussing their current research!
+
+<br/>
 
 I am extremely grateful to [Valentin Patilea](https://ensai.fr/equipe/valentin-patilea/), [Motonobu Kanagawa](https://www.eurecom.fr/en/people/kanagawa-motonobu) and [Aditya Gulati](https://gulu42.github.io) for the respective invitations, and to my CDT ([UCL CDT in Foundational AI](https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd) with [UKRI](https://www.ukri.org) funding) which allowed me to participate in those workshops/symposium!
 
