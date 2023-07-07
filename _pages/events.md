@@ -4,7 +4,7 @@ permalink: /events/
 author_profile: true
 ---
 
-* [**Distance-based methods in Machine Learning Workshop**](https://dbmml.github.io)
+* [**DBMML: Distance-Based Methods in Machine Learning Workshop**](https://dbmml.github.io)
   * 27--28 June 2023, London, UK
   * [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence)
   * **MMD-FUSE: Learning and Combining Kernels for Two-Sample Testing Without Data Splitting**
