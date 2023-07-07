@@ -13,9 +13,8 @@ author_profile: true
 
 <br>
 
-* **NeurIPS 2022: Annual Conference on Neural Information Processing Systems**
+* **[NeurIPS 2022: Annual Conference on Neural Information Processing Systems](https://proceedings.neurips.cc/paper_files/paper/2022)**
   * 28 November--4 December 2022, New Orleans, USA
-  * [Advances in Neural Information Processing Systems 35 (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022)
   * **Efficient Aggregated Kernel Tests using Incomplete U-statistics**
     * [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/774164b966cc277c82a960934445140d-Paper-Conference.pdf)
     * [Supplemental](https://proceedings.neurips.cc/paper_files/paper/2022/file/d241a7b1499cee1bf40769ceade2444d-Supplemental-Conference.pdf)
