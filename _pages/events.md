@@ -4,6 +4,33 @@ permalink: /events/
 author_profile: true
 ---
 
+* [**Distance-based methods in Machine Learning Workshop**](https://dbmml.github.io)
+  * 27--28 June 2023, London, UK
+  * [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence)
+  * **MMD-FUSE: Learning and Combining Kernels for Two-Sample Testing Without Data Splitting**
+    * [Paper](https://arxiv.org/pdf/2306.08777.pdf)
+    * [Slides](https://antoninschrab.github.io/files/Slides_MMDFUSE.pdf)
+
+<br>
+
+* **NeurIPS 2022: Annual Conference on Neural Information Processing Systems**
+  * 28 November--4 December 2022, New Orleans, USA
+  * [Advances in Neural Information Processing Systems 35 (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022)
+  * **Efficient Aggregated Kernel Tests using Incomplete U-statistics**
+    * [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/774164b966cc277c82a960934445140d-Paper-Conference.pdf)
+    * [Supplemental](https://proceedings.neurips.cc/paper_files/paper/2022/file/d241a7b1499cee1bf40769ceade2444d-Supplemental-Conference.pdf)
+    * [Video](https://nips.cc/virtual/2022/poster/54933)
+    * [Slides](https://nips.cc/media/neurips-2022/Slides/54933.pdf)
+    * [Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/54933.png?t=1669384934.1906412)
+  * **KSD Aggregated Goodness-of-fit Test**
+    * [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/d241a7b1499cee1bf40769ceade2444d-Paper-Conference.pdf)
+    * [Supplemental](https://proceedings.neurips.cc/paper_files/paper/2022/file/d241a7b1499cee1bf40769ceade2444d-Supplemental-Conference.pdf)
+    * [Video](https://nips.cc/virtual/2022/poster/54932)
+    * [Slides](https://nips.cc/media/neurips-2022/Slides/54932.pdf)
+    * [Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/54932.png?t=1669384001.1315906)
+
+<br>
+
 * **UKRI Inter AI CDT Conference**
   * 7--8 November 2022, Bristol, England
   * [Foundational Artificial Intelligence CDT (UCL)](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd)
