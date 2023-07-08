@@ -27,8 +27,4 @@ I also organise the [DeepMind/ELLIS CSML Seminar Series](https://ucl-ellis.githu
 
 <br/>
 
-<a class="twitter-timeline" data-width="450" data-height="900" data-theme="dark" href="https://twitter.com/antoninschrab?ref_src=twsrc%5Etfw">Tweets by antoninschrab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br/>
-
 <img align="middle" src="https://antoninschrab.github.io/files/net1.png?raw=true" alt="Photo" style="width: 10000px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
