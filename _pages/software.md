@@ -25,7 +25,7 @@ redirect_from:
 <br>
 
 * [mmdfuse](https://github.com/antoninschrab/mmdfuse): 
-  * Two-sample tests: MMD-FUSE
+  * Two-sample test: MMD-FUSE
   * [Paper](https://arxiv.org/pdf/2306.08777.pdf)
 
 <br/>
