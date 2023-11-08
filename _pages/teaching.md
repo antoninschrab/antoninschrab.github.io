@@ -8,6 +8,7 @@ author_profile: true
   * 2020--2021 Term 1
   * 2021--2022 Term 1
   * 2022--2023 Term 1
+  * 2023--2024 Term 1
 
 <br/>
 
