@@ -8,7 +8,7 @@ author_profile: true
 
 * [**DeepMind/ELLIS CSML Seminar Series 2021/22**](https://antoninschrab.github.io/blog-csml-2021-2022/)
 
-* [**GOFCP, MLF & EDS 2022**](https://antoninschrab.github.io/blog-sept-2022.md)
+* [**GOFCP, MLF & EDS 2022**](https://antoninschrab.github.io/blog-sept-2022/)
 
 <br/>
 
