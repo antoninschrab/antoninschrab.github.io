@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD student on the [Foundational Artifical Intelligence CDT](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd) (2020-2024) at [University College London](https://www.ucl.ac.uk), supervised by [Benjamin Guedj](https://bguedj.github.io) at the [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) and [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/) at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
 
-My research, lying at the intersection of the machine learning, statistics and computer science communities, has currently focused on designing kernel-based hypothesis tests for the two-sample, independence and goodness-of-fit problems.
+My research lies at the intersection of the machine learning, statistics and computer science communities, and has currently focused on designing kernel-based hypothesis tests for the two-sample, independence and goodness-of-fit problems.
 A unique aspect of my work is that an equally strong emphasis is put on both theory and practicality, which is of the utmost importance for the real-world uses of these tests.
 Indeed, strong theoretical guarantees in terms of minimax optimality are provided, and much effort has been put into providing user-friendly parameter-free [implementations](https://github.com/antoninschrab/) of all proposed tests with the ability to leverage GPU architectures for significant computational speedups.
 
