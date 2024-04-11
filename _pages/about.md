@@ -19,7 +19,9 @@ Indeed, strong theoretical guarantees in terms of minimax optimality are provide
 This practical aim to construct parameter-free tests for users resulted in a common theme throughout my research: tackling the fundamental problem of kernel selection for kernel-based hypothesis tests, either via Aggregation, or via Fusion.
 A nowadays very common concern that could affect the adoption of these tests for real-world applications is privacy of sensitive data, as such, we have recently proposed tests with differential privacy guarantees, have proved their minimax optimality, and have released publicly available [code](https://github.com/antoninschrab/dpkernel).
 
-I have also always had a keen interest in generative modelling and have kept close to that community.
+I have recently started working on methods using all these kernel tests for watermarking large language models and diffusion models, in order to help detection of misuse of these models (plagiarism, deepfake images, ...).
+
+<!-- I have also always had a keen interest in generative modelling and have kept close to that community. -->
 
 Prior to starting my PhD, I received a [Master of Mathematics](https://www.maths.ox.ac.uk/study-here/undergraduate-study/which-course/mathematics) from the [University of Oxford](https://www.ox.ac.uk) and a [Master of Science in Machine Learning](https://www.ucl.ac.uk/computer-science/study/postgraduate-taught/machine-learning-msc) from [University College London](https://www.ucl.ac.uk).
 
