@@ -4,6 +4,40 @@ permalink: /events/
 author_profile: true
 ---
 
+* [**Workshop on Functional Inference and Machine Intelligence (FIMI)**](https://ismseminar.github.io/fimi2024/)
+  * 25--27 March 2024, Bristol, UK
+  * * **MMD Aggregated Two-Sample Test**
+    * [Paper](https://www.jmlr.org/papers/volume24/21-1289/21-1289.pdf)
+    * [Video & Slides](https://neurips.cc/virtual/2023/poster/73927)
+    * [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73927.png?t=1702228328.0024228)
+
+<br>
+
+* [**MLSS: Machine Learning Summer School**](https://groups.oist.jp/mlss)
+  * 04--15 March 2024, Okinawa, Japan
+  * [OIST: Okinawa Institute of Science and Technology](https://www.oist.jp)
+  * * Poster session
+  * **Efficient Aggregated Kernel Tests using Incomplete U-statistics**
+    * [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/774164b966cc277c82a960934445140d-Paper-Conference.pdf)
+    * [Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/54933.png?t=1669384934.1906412)
+
+<br>
+
+* **[NeurIPS 2023: Annual Conference on Neural Information Processing Systems](https://proceedings.neurips.cc/paper_files/paper/2023)**
+  * 10 December--16 December 2022, New Orleans, USA
+  * **MMD-Fuse: Learning and Combining Kernels for Two-Sample Testing Without Data Splitting**
+    * Spotlight paper NeurIPS 2023
+    * [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/edd00cead3425393baf13004de993017-Paper-Conference.pdf)
+    * [Video & Slides](https://neurips.cc/virtual/2023/poster/72060)
+    * [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72060.png?t=1702227920.0569577)
+  * **MMD Aggregated Two-Sample Test**
+    * Journal-to-Conference Track JMLR 
+    * [Paper](https://www.jmlr.org/papers/volume24/21-1289/21-1289.pdf)
+    * [Video & Slides](https://neurips.cc/virtual/2023/poster/73927)
+    * [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73927.png?t=1702228328.0024228)
+
+<br>
+
 * [**DBMML: Distance-Based Methods in Machine Learning Workshop**](https://dbmml.github.io)
   * 27--28 June 2023, London, UK
   * [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/ucl-centre-artificial-intelligence)
