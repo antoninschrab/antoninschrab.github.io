@@ -7,7 +7,7 @@
   number = {194},
   pages = {1--81},
   abstract = {We propose two novel nonparametric two-sample kernel tests based on the Maximum Mean Discrepancy (MMD). First, for a fixed kernel, we construct an MMD test using either permutations or a wild bootstrap, two popular numerical procedures to determine the test threshold. We prove that this test controls the probability of type I error non-asymptotically. Hence, it can be used reliably even in settings with small sample sizes as it remains well-calibrated, which differs from previous MMD tests which only guarantee correct test level asymptotically. When the difference in densities lies in a Sobolev ball, we prove minimax optimality of our MMD test with a specific kernel depending on the smoothness parameter of the Sobolev ball. In practice, this parameter is unknown and, hence, the optimal MMD test with this particular kernel cannot be used. To overcome this issue, we construct an aggregated test, called MMDAgg, which is adaptive to the smoothness parameter. The test power is maximised over the collection of kernels used, without requiring held-out data for kernel selection (which results in a loss of test power), or arbitrary kernel choices such as the median heuristic. We prove that MMDAgg still controls the level non-asymptotically, and achieves the minimax rate over Sobolev balls, up to an iterated logarithmic term. Our guarantees are not restricted to a specific type of kernel, but hold for any product of one-dimensional translation invariant characteristic kernels. We provide a user-friendly parameter-free implementation of MMDAgg using an adaptive collection of bandwidths. We demonstrate that MMDAgg significantly outperforms alternative state-of-the-art MMD-based two-sample tests on synthetic data satisfying the Sobolev smoothness assumption, and that, on real-world image data, MMDAgg closely matches the power of tests leveraging the use of models such as neural networks.},
-  keywords = {Hypothesis testing},
+  keywords = {Hypothesis testing, Two-sample testing},
   url = {http://jmlr.org/papers/v24/21-1289.html},
   url_PDF = {https://jmlr.org/papers/volume24/21-1289/21-1289.pdf},
   url_Code_1 = {https://github.com/antoninschrab/mmdagg},
@@ -30,7 +30,7 @@
   editor = {Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
   year = {2022},
   abstract = {We investigate properties of goodness-of-fit tests based on the Kernel Stein Discrepancy (KSD). We introduce a strategy to construct a test, called KSDAgg, which aggregates multiple tests with different kernels. KSDAgg avoids splitting the data to perform kernel selection (which leads to a loss in test power), and rather maximises the test power over a collection of kernels. We provide theoretical guarantees on the power of KSDAgg: we show it achieves the smallest uniform separation rate of the collection, up to a logarithmic term. KSDAgg can be computed exactly in practice as it relies either on a parametric bootstrap or on a wild bootstrap to estimate the quantiles and the level corrections. In particular, for the crucial choice of bandwidth of a fixed kernel, it avoids resorting to arbitrary heuristics (such as median or standard deviation) or to data splitting. We find on both synthetic and real-world data that KSDAgg outperforms other state-of-the-art adaptive KSD-based goodness-of-fit testing procedures.},
-  keywords = {Hypothesis testing},
+  keywords = {Hypothesis testing, Goodness-of-fit testing},
   url = {https://proceedings.neurips.cc/paper_files/paper/2022/hash/d241a7b1499cee1bf40769ceade2444d-Abstract-Conference.html},
   url_PDF = {https://proceedings.neurips.cc/paper_files/paper/2022/file/d241a7b1499cee1bf40769ceade2444d-Paper-Conference.pdf},
   url_Supplemental = {https://proceedings.neurips.cc/paper_files/paper/2022/file/d241a7b1499cee1bf40769ceade2444d-Supplemental-Conference.pdf},
@@ -57,7 +57,7 @@
   editor = {Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
   year = {2022},
   abstract = {We propose a series of computationally efficient, nonparametric tests for the two-sample, independence and goodness-of-fit problems, using the Maximum Mean Discrepancy (MMD), Hilbert Schmidt Independence Criterion (HSIC), and Kernel Stein Discrepancy (KSD), respectively. Our test statistics are incomplete $U$-statistics, with a computational cost that interpolates between linear time in the number of samples, and quadratic time, as associated with classical $U$-statistic tests. The three proposed tests aggregate over several kernel bandwidths to detect departures from the null on various scales: we call the resulting tests MMDAggInc, HSICAggInc and KSDAggInc. For the test thresholds, we derive a quantile bound for wild bootstrapped incomplete $U$- statistics, which is of independent interest. We derive uniform separation rates for MMDAggInc and HSICAggInc, and quantify exactly the trade-off between computational efficiency and the attainable rates: this result is novel for tests based on incomplete $U$-statistics, to our knowledge. We further show that in the quadratic-time case, the wild bootstrap incurs no penalty to test power over more widespread permutation-based approaches, since both attain the same minimax optimal rates (which in turn match the rates that use oracle quantiles). We support our claims with numerical experiments on the trade-off between computational efficiency and test power. In the three testing frameworks, we observe that our proposed linear-time aggregated tests obtain higher power than current state-of-the-art linear-time kernel tests.},
-  keywords = {Hypothesis testing},
+  keywords = {Hypothesis testing, Two-sample testing, Independence testing, Goodness-of-fit testing},
   url = {https://proceedings.neurips.cc/paper_files/paper/2022/hash/774164b966cc277c82a960934445140d-Abstract-Conference.html},
   url_PDF = {https://proceedings.neurips.cc/paper_files/paper/2022/file/774164b966cc277c82a960934445140d-Paper-Conference.pdf},
   url_Supplemental = {https://proceedings.neurips.cc/paper_files/paper/2022/file/774164b966cc277c82a960934445140d-Supplemental-Conference.pdf},
@@ -88,19 +88,13 @@
   eprint = {https://academic.oup.com/biomet/article-pdf/109/3/597/45512180/asac028.pdf},
   url_arXiv = {https://arxiv.org/pdf/2206.11142},
   abstract = {We discuss how MultiFIT, the Multiscale Fisher's Independence Test for Multivariate Dependence proposed by Gorsky and Ma (2022), compares to existing linear-time kernel tests based on the Hilbert-Schmidt independence criterion (HSIC). We highlight the fact that the levels of the kernel tests at any finite sample size can be controlled exactly, as it is the case with the level of MultiFIT. In our experiments, we observe some of the performance limitations of MultiFIT in terms of test power.},
-  keywords = {Hypothesis testing},
+  keywords = {Hypothesis testing, Independence testing},
   eprint = {2206.11142},
   archivePrefix = {arXiv},
   primaryClass = {stat.ME}
 }
 
 @article{biggs2023mmdfuse,
-  
-  journal       = {Advances in Neural Information Processing Systems},
-  volume        = {36}
-}
-
-@unpublished{biggs2023mmdfuse,
   author        = {Biggs, Felix and Schrab, Antonin and Gretton, Arthur},
   title         = {{MMD-FUSE}: {L}earning and Combining Kernels for Two-Sample Testing Without Data Splitting},
   year          = {2023},
@@ -108,7 +102,7 @@
   volume        = {36},
   note = "Spotlight at NeurIPS 2023.",
   abstract = {We propose novel statistics which maximise the power of a two-sample test based on the Maximum Mean Discrepancy (MMD), by adapting over the set of kernels used in defining it. For finite sets, this reduces to combining (normalised) MMD values under each of these kernels via a weighted soft maximum. Exponential concentration bounds are proved for our proposed statistics under the null and alternative. We further show how these kernels can be chosen in a data-dependent but permutation-independent way, in a well-calibrated test, avoiding data splitting. This technique applies more broadly to general permutation-based MMD testing, and includes the use of deep kernels with features learnt using unsupervised models such as auto-encoders. We highlight the applicability of our MMD-FUSE test on both synthetic low-dimensional and real-world high-dimensional data, and compare its performance in terms of power against current state-of-the-art kernel tests.},
-  keywords = {Hypothesis testing},
+  keywords = {Hypothesis testing, Two-sample testing},
   url = {https://arxiv.org/abs/2306.08777},
   url_PDF = {https://arxiv.org/pdf/2306.08777.pdf},
   url_Code_1 = {https://github.com/antoninschrab/mmdfuse},
@@ -124,11 +118,23 @@ title={Differentially Private Permutation Tests: {A}pplications to Kernel Method
 author={Ilmun Kim and Antonin Schrab},
 year={2023},
 abstract = {Recent years have witnessed growing concerns about the privacy of sensitive data. In response to these concerns, differential privacy has emerged as a rigorous framework for privacy protection, gaining widespread recognition in both academic and industrial circles. While substantial progress has been made in private data analysis, existing methods often suffer from impracticality or a significant loss of statistical efficiency. This paper aims to alleviate these concerns in the context of hypothesis testing by introducing differentially private permutation tests. The proposed framework extends classical non-private permutation tests to private settings, maintaining both finite-sample validity and differential privacy in a rigorous manner. The power of the proposed test depends on the choice of a test statistic, and we establish general conditions for consistency and non-asymptotic uniform power. To demonstrate the utility and practicality of our framework, we focus on reproducing kernel-based test statistics and introduce differentially private kernel tests for two-sample and independence testing: dpMMD and dpHSIC. The proposed kernel tests are straightforward to implement, applicable to various types of data, and attain minimax optimal power across different privacy regimes. Our empirical evaluations further highlight their competitive power under various synthetic and real-world scenarios, emphasizing their practical value. The code is publicly available to facilitate the implementation of our framework.},
-keywords = {Hypothesis testing, Differential privacy},
+keywords = {Hypothesis testing, Differential privacy, Two-sample testing, Independence testing},
 url = {https://arxiv.org/abs/2310.19043},
 url_Code_1 = {https://github.com/antoninschrab/dpkernel},
 url_Code_2 = {https://github.com/antoninschrab/dpkernel-paper},
 eprint={2310.19043},
 archivePrefix={arXiv},
 primaryClass={math.ST}
+}
+
+@unpublished{pogodin2024practical,
+  title={Practical Kernel Tests of Conditional Independence},
+  author={Pogodin, Roman and Schrab, Antonin and Li, Yazhe and Sutherland, Danica J and Gretton, Arthur},
+  keywords = {Hypothesis testing, Conditional independence testing},
+  year={2024},
+  url = {https://arxiv.org/abs/2402.13196},
+  url_Code_1 = {https://github.com/romanpogodin/kernel-ci-testing},
+  eprint = {2402.13196},
+  archivePrefix = {arXiv},
+  primaryClass = {stat.ML}
 }
