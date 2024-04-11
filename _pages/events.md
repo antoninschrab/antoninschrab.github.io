@@ -16,7 +16,7 @@ author_profile: true
 * [**MLSS: Machine Learning Summer School**](https://groups.oist.jp/mlss)
   * 04--15 March 2024, Okinawa, Japan
   * [OIST: Okinawa Institute of Science and Technology](https://www.oist.jp)
-  * * Poster session
+  * Poster session
   * **Efficient Aggregated Kernel Tests using Incomplete U-statistics**
     * [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/774164b966cc277c82a960934445140d-Paper-Conference.pdf)
     * [Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/54933.png?t=1669384934.1906412)
