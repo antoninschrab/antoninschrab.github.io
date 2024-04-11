@@ -6,7 +6,7 @@ author_profile: true
 
 * [**Workshop on Functional Inference and Machine Intelligence (FIMI)**](https://ismseminar.github.io/fimi2024/)
   * 25--27 March 2024, Bristol, UK
-  * * **MMD Aggregated Two-Sample Test**
+  * **MMD Aggregated Two-Sample Test**
     * [Paper](https://www.jmlr.org/papers/volume24/21-1289/21-1289.pdf)
     * [Video & Slides](https://neurips.cc/virtual/2023/poster/73927)
     * [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73927.png?t=1702228328.0024228)
