@@ -6,6 +6,13 @@ redirect_from:
   - /resume
 ---
 
+* [dckernel](https://github.com/antoninschrab/dckernel): 
+  * Two-sample test robust to data corruption: dcMMD
+  * Independence test robust to data corruption: dcHSIC
+  * [Paper](https://arxiv.org/pdf/2405.19912)
+
+<br>
+
 * [dpkernel](https://github.com/antoninschrab/dpkernel): 
   * Two-sample differentially private test: dpMMD
   * Independence differentially private test: dpHSIC
