@@ -114,9 +114,9 @@
 }
 
 @unpublished{kim2023differentially,
-title={Differentially Private Permutation Tests: {A}pplications to Kernel Methods}, 
-author={Ilmun Kim and Antonin Schrab},
-year={2023},
+title = {Differentially Private Permutation Tests: {A}pplications to Kernel Methods}, 
+author = {Ilmun Kim and Antonin Schrab},
+year = {2023},
 note = "Arxiv preprint 2310.19043.",
 abstract = {Recent years have witnessed growing concerns about the privacy of sensitive data. In response to these concerns, differential privacy has emerged as a rigorous framework for privacy protection, gaining widespread recognition in both academic and industrial circles. While substantial progress has been made in private data analysis, existing methods often suffer from impracticality or a significant loss of statistical efficiency. This paper aims to alleviate these concerns in the context of hypothesis testing by introducing differentially private permutation tests. The proposed framework extends classical non-private permutation tests to private settings, maintaining both finite-sample validity and differential privacy in a rigorous manner. The power of the proposed test depends on the choice of a test statistic, and we establish general conditions for consistency and non-asymptotic uniform power. To demonstrate the utility and practicality of our framework, we focus on reproducing kernel-based test statistics and introduce differentially private kernel tests for two-sample and independence testing: dpMMD and dpHSIC. The proposed kernel tests are straightforward to implement, applicable to various types of data, and attain minimax optimal power across different privacy regimes. Our empirical evaluations further highlight their competitive power under various synthetic and real-world scenarios, emphasizing their practical value. The code is publicly available to facilitate the implementation of our framework.},
 keywords = {Differential privacy, Two-sample testing, Independence testing},
@@ -138,6 +138,21 @@ primaryClass={math.ST}
   url = {https://arxiv.org/abs/2402.13196},
   url_Code_1 = {https://github.com/romanpogodin/kernel-ci-testing},
   eprint = {2402.13196},
+  archivePrefix = {arXiv},
+  primaryClass = {stat.ML}
+}
+
+@unpublished{schrab2024robust,
+  title = {Robust Kernel Hypothesis Testing under Data Corruption},
+  author = {Antonin Schrab and Ilmun Kim},
+  keywords = {Robustness, Two-sample testing, Independence testing},
+  year = {2024},
+  note = "Arxiv preprint 2405.19912.",
+  abstract = {We propose two general methods for constructing robust permutation tests under data corruption. The proposed tests effectively control the non-asymptotic type I error under data corruption, and we prove their consistency in power under minimal conditions. This contributes to the practical deployment of hypothesis tests for real-world applications with potential adversarial attacks. One of our methods inherently ensures differential privacy, further broadening its applicability to private data analysis. For the two-sample and independence settings, we show that our kernel robust tests are minimax optimal, in the sense that they are guaranteed to be non-asymptotically powerful against alternatives uniformly separated from the null in the kernel MMD and HSIC metrics at some optimal rate (tight with matching lower bound). Finally, we provide publicly available implementations and empirically illustrate the practicality of our proposed tests.},
+  url = {https://arxiv.org/abs/2405.19912},
+  url_Code_1 = {https://github.com/antoninschrab/dckernel},
+  url_Code_2 = {https://github.com/antoninschrab/dckernel-paper},
+  eprint = {2405.19912},
   archivePrefix = {arXiv},
   primaryClass = {stat.ML}
 }
