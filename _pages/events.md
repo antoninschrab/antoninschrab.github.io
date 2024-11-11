@@ -4,6 +4,30 @@ permalink: /events/
 author_profile: true
 ---
 
+* [**Algorithms & Computationally Intensive Inference Seminars**](https://ismseminar.github.io/fimi2024/)
+  * 9 November 2024, Warwick, UK
+  * [Department of Statistics, University of Warwick](https://warwick.ac.uk/fac/sci/statistics/frn)
+  * **Optimal Kernel Hypothesis Testing**
+    * Details to be added soon
+
+<br>
+
+* [**PhD Defense in Foundational AI**](https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd)
+  * 8 October 2024, London, UK
+  * [Centre for Artificial Intelligence, UCL](https://www.ucl.ac.uk/ai-centre/)
+  * [Gatsby Computational Neuroscience Unit, UCL](https://www.ucl.ac.uk/gatsby/)
+  * **Optimal Kernel Hypothesis Testing**
+    * Details to be added soon
+
+<br>
+
+* [**Fundamentals of Statistical Machine Learning Seminar**](https://fsml-ucl.github.io)
+  * 7 Ocotber 2024, London, UK
+  * **Optimal Kernel Hypothesis Testing**
+    * Details to be added soon
+
+<br>
+
 * [**Workshop on Functional Inference and Machine Intelligence (FIMI)**](https://ismseminar.github.io/fimi2024/)
   * 25--27 March 2024, Bristol, UK
   * **MMD Aggregated Two-Sample Test**
