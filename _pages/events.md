@@ -23,6 +23,7 @@ author_profile: true
 
 * [**Fundamentals of Statistical Machine Learning Seminar**](https://fsml-ucl.github.io)
   * 7 Ocotber 2024, London, UK
+  * [Department of Statistical Science, UCL](https://www.ucl.ac.uk/statistics/)
   * **Optimal Kernel Hypothesis Testing**
     * Details to be added soon
 
