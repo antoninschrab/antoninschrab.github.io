@@ -20,6 +20,7 @@
   url_Video_2 = {https://youtu.be/OWh6Hj10wsY},
   eprint = {2110.15073},
   archivePrefix = {arXiv},
+  note = {JMLR 2023.},
   primaryClass = {stat.ML}
 }
 
@@ -47,6 +48,7 @@
   url_Video_3 = {https://youtu.be/OWh6Hj10wsY},
   eprint = {2202.00824},
   archivePrefix = {arXiv},
+  note = {NeurIPS 2022.},
   primaryClass = {stat.ML}
 }
 
@@ -57,7 +59,7 @@
   editor = {Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
   year = {2022},
   abstract = {We propose a series of computationally efficient, nonparametric tests for the two-sample, independence and goodness-of-fit problems, using the Maximum Mean Discrepancy (MMD), Hilbert Schmidt Independence Criterion (HSIC), and Kernel Stein Discrepancy (KSD), respectively. Our test statistics are incomplete $U$-statistics, with a computational cost that interpolates between linear time in the number of samples, and quadratic time, as associated with classical $U$-statistic tests. The three proposed tests aggregate over several kernel bandwidths to detect departures from the null on various scales: we call the resulting tests MMDAggInc, HSICAggInc and KSDAggInc. For the test thresholds, we derive a quantile bound for wild bootstrapped incomplete $U$- statistics, which is of independent interest. We derive uniform separation rates for MMDAggInc and HSICAggInc, and quantify exactly the trade-off between computational efficiency and the attainable rates: this result is novel for tests based on incomplete $U$-statistics, to our knowledge. We further show that in the quadratic-time case, the wild bootstrap incurs no penalty to test power over more widespread permutation-based approaches, since both attain the same minimax optimal rates (which in turn match the rates that use oracle quantiles). We support our claims with numerical experiments on the trade-off between computational efficiency and test power. In the three testing frameworks, we observe that our proposed linear-time aggregated tests obtain higher power than current state-of-the-art linear-time kernel tests.},
-  keywords = {Two-sample testing, Independence testing, Goodness-of-fit testing},
+  keywords = {Two-sample testing, Independence testing, Goodness-of-fit testing, Efficiency},
   url = {https://proceedings.neurips.cc/paper_files/paper/2022/hash/774164b966cc277c82a960934445140d-Abstract-Conference.html},
   url_PDF = {https://proceedings.neurips.cc/paper_files/paper/2022/file/774164b966cc277c82a960934445140d-Paper-Conference.pdf},
   url_Supplemental = {https://proceedings.neurips.cc/paper_files/paper/2022/file/774164b966cc277c82a960934445140d-Supplemental-Conference.pdf},
@@ -70,6 +72,7 @@
   url_Video = {https://nips.cc/virtual/2022/poster/54933},
   eprint = {2206.09194},
   archivePrefix = {arXiv},
+  note = {NeurIPS 2022.},
   primaryClass = {stat.ML}
 }
 
@@ -100,7 +103,6 @@
   year          = {2023},
   journal       = {Advances in Neural Information Processing Systems},
   volume        = {36},
-  note = "Spotlight at NeurIPS 2023.",
   abstract = {We propose novel statistics which maximise the power of a two-sample test based on the Maximum Mean Discrepancy (MMD), by adapting over the set of kernels used in defining it. For finite sets, this reduces to combining (normalised) MMD values under each of these kernels via a weighted soft maximum. Exponential concentration bounds are proved for our proposed statistics under the null and alternative. We further show how these kernels can be chosen in a data-dependent but permutation-independent way, in a well-calibrated test, avoiding data splitting. This technique applies more broadly to general permutation-based MMD testing, and includes the use of deep kernels with features learnt using unsupervised models such as auto-encoders. We highlight the applicability of our MMD-FUSE test on both synthetic low-dimensional and real-world high-dimensional data, and compare its performance in terms of power against current state-of-the-art kernel tests.},
   keywords = {Two-sample testing},
   url = {https://arxiv.org/abs/2306.08777},
@@ -110,6 +112,7 @@
   url_Slides = {https://antoninschrab.github.io/files/Slides_MMDFUSE.pdf},
   eprint = {2306.08777},
   archivePrefix = {arXiv},
+  note = {NeurIPS 2023 Spotlight.},
   primaryClass = {stat.ML}
 }
 
@@ -142,17 +145,47 @@ primaryClass={math.ST}
   primaryClass = {stat.ML}
 }
 
-@unpublished{schrab2024robust,
+@article{schrab2024robust,
   title = {Robust Kernel Hypothesis Testing under Data Corruption},
   author = {Antonin Schrab and Ilmun Kim},
   keywords = {Robustness, Differential privacy, Two-sample testing, Independence testing},
   year = {2024},
-  note = "Arxiv preprint 2405.19912.",
+  journal = {International Conference on Artificial Intelligence and Statistics},
+  volume = {28},
+  note = "AISTATS 2025 Oral.",
   abstract = {We propose two general methods for constructing robust permutation tests under data corruption. The proposed tests effectively control the non-asymptotic type I error under data corruption, and we prove their consistency in power under minimal conditions. This contributes to the practical deployment of hypothesis tests for real-world applications with potential adversarial attacks. One of our methods inherently ensures differential privacy, further broadening its applicability to private data analysis. For the two-sample and independence settings, we show that our kernel robust tests are minimax optimal, in the sense that they are guaranteed to be non-asymptotically powerful against alternatives uniformly separated from the null in the kernel MMD and HSIC metrics at some optimal rate (tight with matching lower bound). Finally, we provide publicly available implementations and empirically illustrate the practicality of our proposed tests.},
   url = {https://arxiv.org/abs/2405.19912},
   url_Code_1 = {https://github.com/antoninschrab/dckernel},
   url_Code_2 = {https://github.com/antoninschrab/dckernel-paper},
   eprint = {2405.19912},
+  archivePrefix = {arXiv},
+  primaryClass = {stat.ML}
+}
+
+@unpublished{schrab2025practical,
+  title={A Practical Introduction to Kernel Discrepancies: MMD, HSIC & KSD},
+  author={Schrab, Antonin},
+  keywords = {Introduction},
+  year={2025},
+  note = "Arxiv preprint 2503.04820.",
+  abstract = {This article provides a practical introduction to kernel discrepancies, focusing on the Maximum Mean Discrepancy (MMD), the Hilbert-Schmidt Independence Criterion (HSIC), and the Kernel Stein Discrepancy (KSD). Various estimators for these discrepancies are presented, including the commonly-used V-statistics and U-statistics, as well as several forms of the more computationally-efficient incomplete U-statistics. The importance of the choice of kernel bandwidth is stressed, showing how it affects the behaviour of the discrepancy estimation. Adaptive estimators are introduced, which combine multiple estimators with various kernels, addressing the problem of kernel selection.},
+  url = {https://arxiv.org/abs/2503.04820},
+  url_Code = {https://github.com/antoninschrab},
+  eprint = {2503.04820},
+  archivePrefix = {arXiv},
+  primaryClass = {stat.ML}
+}
+
+@unpublished{schrab2025unified,
+  title={A Unified View of Optimal Kernel Hypothesis Testing},
+  author={Schrab, Antonin},
+  keywords = {Two-sample testing, Independence testing, Goodness-of-fit testing, Robustness, Differential privacy, Efficiency},
+  year={2025},
+  note = "Arxiv preprint 2503.07084.",
+  abstract = {This article provides a practical introduction to kernel discrepancies, focusing on the Maximum Mean Discrepancy (MMD), the Hilbert-Schmidt Independence Criterion (HSIC), and the Kernel Stein Discrepancy (KSD). Various estimators for these discrepancies are presented, including the commonly-used V-statistics and U-statistics, as well as several forms of the more computationally-efficient incomplete U-statistics. The importance of the choice of kernel bandwidth is stressed, showing how it affects the behaviour of the discrepancy estimation. Adaptive estimators are introduced, which combine multiple estimators with various kernels, addressing the problem of kernel selection.},
+  url = {https://arxiv.org/abs/2503.07084},
+  url_Code = {https://github.com/antoninschrab},
+  eprint = {2503.07084},
   archivePrefix = {arXiv},
   primaryClass = {stat.ML}
 }
