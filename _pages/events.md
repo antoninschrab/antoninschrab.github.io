@@ -4,6 +4,20 @@ permalink: /events/
 author_profile: true
 ---
 
+* **[AISTATS 2025: International Conference on Artificial Intelligence and Statistics](https://aistats.org/aistats2025//)**
+  * 3 May--5 May 2025, Mai Khao, Thailand
+  * **Robust Kernel Hypothesis Testing under Data Corruption**
+    * Oral paper AISTATS 2025
+    * [Paper](https://raw.githubusercontent.com/mlresearch/v258/main/assets/schrab25a/schrab25a.pdf)
+    * [Slides](https://antoninschrab.github.io/files/Slides_Robust.pdf)
+    * [Poster](https://virtual.aistats.org/media/PosterPDFs/AISTATS%202025/10030.png?t=1745738694.111201)
+  * **Credal Two-Sample Tests of Epistemic Uncertainty**
+    * Poster paper AISTATS 2025
+    * [Paper](https://raw.githubusercontent.com/mlresearch/v258/main/assets/chau25a/chau25a.pdf)
+    * [Poster](https://antoninschrab.github.io/files/Poster_Credal.pdf)
+
+<br>
+
 * [**Algorithms & Computationally Intensive Inference Seminars**](https://ismseminar.github.io/fimi2024/)
   * 9 November 2024, Warwick, UK
   * [Department of Statistics, University of Warwick](https://warwick.ac.uk/fac/sci/statistics/frn)
