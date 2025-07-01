@@ -158,6 +158,8 @@ primaryClass={math.ST}
   abstract = {We propose two general methods for constructing robust permutation tests under data corruption. The proposed tests effectively control the non-asymptotic type I error under data corruption, and we prove their consistency in power under minimal conditions. This contributes to the practical deployment of hypothesis tests for real-world applications with potential adversarial attacks. One of our methods inherently ensures differential privacy, further broadening its applicability to private data analysis. For the two-sample and independence settings, we show that our kernel robust tests are minimax optimal, in the sense that they are guaranteed to be non-asymptotically powerful against alternatives uniformly separated from the null in the kernel MMD and HSIC metrics at some optimal rate (tight with matching lower bound). Finally, we provide publicly available implementations and empirically illustrate the practicality of our proposed tests.},
   url = {https://arxiv.org/abs/2405.19912},
   url_PDF = {https://arxiv.org/pdf/2405.19912},
+  url_Slides = {https://antoninschrab.github.io/files/Slides_Robust.pdf},
+  url_Poster = {https://antoninschrab.github.io/files/Poster_Robust.pdf},
   url_Code_1 = {https://github.com/antoninschrab/dckernel},
   url_Code_2 = {https://github.com/antoninschrab/dckernel-paper},
   eprint = {2405.19912},
@@ -165,7 +167,7 @@ primaryClass={math.ST}
   primaryClass = {stat.ML}
 }
 
-@article{schrab2025robust,
+@article{chau2025credal,
   title = {Credal Two-Sample Tests of Epistemic Uncertainty},
   author = {Siu Lun Chau, Antonin Schrab, Arthur Gretton, Dino Sejdinovic, Krikamol Muandet},
   keywords = {Two-sample testing},
@@ -176,6 +178,7 @@ primaryClass={math.ST}
   abstract = {We introduce credal two-sample testing, a new hypothesis testing framework for comparing credal sets -- convex sets of probability measures where each element captures aleatoric uncertainty and the set itself represents epistemic uncertainty that arises from the modeller's partial ignorance. Compared to classical two-sample tests, which focus on comparing precise distributions, the proposed framework provides a broader and more versatile set of hypotheses. This approach enables the direct integration of epistemic uncertainty, effectively addressing the challenges arising from partial ignorance in hypothesis testing. By generalising two-sample test to compare credal sets, our framework enables reasoning for equality, inclusion, intersection, and mutual exclusivity, each offering unique insights into the modeller's epistemic beliefs. As the first work on nonparametric hypothesis testing for comparing credal sets, we focus on finitely generated credal sets derived from i.i.d. samples from multiple distributions -- referred to as credal samples. We formalise these tests as two-sample tests with nuisance parameters and introduce the first permutation-based solution for this class of problems, significantly improving existing methods. Our approach properly incorporates the modeller's epistemic uncertainty into hypothesis testing, leading to more robust and credible conclusions, with kernel-based implementations for real-world applications.},
   url = {https://arxiv.org/abs/2410.12921},
   url_PDF = {https://arxiv.org/pdf/2410.12921},
+  url_Poster = {https://antoninschrab.github.io/files/Poster_Credal.pdf},
   url_Code = {https://github.com/muandet-lab/Credal2STests},
   eprint = {2410.12921},
   archivePrefix = {arXiv},
@@ -191,6 +194,7 @@ primaryClass={math.ST}
   abstract = {This article provides a practical introduction to kernel discrepancies, focusing on the Maximum Mean Discrepancy (MMD), the Hilbert-Schmidt Independence Criterion (HSIC), and the Kernel Stein Discrepancy (KSD). Various estimators for these discrepancies are presented, including the commonly-used V-statistics and U-statistics, as well as several forms of the more computationally-efficient incomplete U-statistics. The importance of the choice of kernel bandwidth is stressed, showing how it affects the behaviour of the discrepancy estimation. Adaptive estimators are introduced, which combine multiple estimators with various kernels, addressing the problem of kernel selection.},
   url = {https://arxiv.org/abs/2503.04820},
   url_PDF = {https://arxiv.org/pdf/2503.04820},
+  url_Slides = {https://antoninschrab.github.io/files/Slides_Optimal.pdf},
   url_Code = {https://github.com/antoninschrab},
   eprint = {2503.04820},
   archivePrefix = {arXiv},
@@ -206,6 +210,7 @@ primaryClass={math.ST}
   abstract = {This paper provides a unifying view of optimal kernel hypothesis testing across the MMD two-sample, HSIC independence, and KSD goodness-of-fit frameworks. Minimax optimal separation rates in the kernel and L2 metrics are presented, with two adaptive kernel selection methods (kernel pooling and aggregation), and under various testing constraints: computational efficiency, differential privacy, and robustness to data corruption. Intuition behind the derivation of the power results is provided in a unified way accross the three frameworks, and open problems are highlighted.},
   url = {https://arxiv.org/abs/2503.07084},
   url_PDF = {https://arxiv.org/pdf/2503.07084},
+  url_Slides = {https://antoninschrab.github.io/files/Slides_Optimal.pdf},
   url_Code = {https://github.com/antoninschrab},
   eprint = {2503.07084},
   archivePrefix = {arXiv},
