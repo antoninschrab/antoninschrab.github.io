@@ -8,7 +8,11 @@ author_profile: true
   * 9 November 2024, Warwick, UK
   * [Department of Statistics, University of Warwick](https://warwick.ac.uk/fac/sci/statistics/frn)
   * **Optimal Kernel Hypothesis Testing**
-    * Details to be added soon
+    * [Slides](https://antoninschrab.github.io/files/Slides_Optimal.pdf)
+    * [Thesis:](https://discovery.ucl.ac.uk/id/eprint/10205846/1/Schrab_10205846_Thesis_Revised.pdf)
+      * [A Practical Introduction to Kernel Discrepancies: MMD, HSIC & KSD](https://arxiv.org/pdf/2503.04820.pdf)
+      * [Unified View of Optimal Kernel Hypothesis Testing](https://arxiv.org/pdf/2503.07084.pdf)
+
 
 <br>
 
@@ -17,7 +21,10 @@ author_profile: true
   * [Centre for Artificial Intelligence, UCL](https://www.ucl.ac.uk/ai-centre/)
   * [Gatsby Computational Neuroscience Unit, UCL](https://www.ucl.ac.uk/gatsby/)
   * **Optimal Kernel Hypothesis Testing**
-    * Details to be added soon
+    * [Slides](https://antoninschrab.github.io/files/Slides_Optimal.pdf)
+    * [Thesis:](https://discovery.ucl.ac.uk/id/eprint/10205846/1/Schrab_10205846_Thesis_Revised.pdf)
+      * [A Practical Introduction to Kernel Discrepancies: MMD, HSIC & KSD](https://arxiv.org/pdf/2503.04820.pdf)
+      * [Unified View of Optimal Kernel Hypothesis Testing](https://arxiv.org/pdf/2503.07084.pdf)
 
 <br>
 
@@ -25,7 +32,10 @@ author_profile: true
   * 7 October 2024, London, UK
   * [Department of Statistical Science, UCL](https://www.ucl.ac.uk/statistics/)
   * **Optimal Kernel Hypothesis Testing**
-    * Details to be added soon
+    * [Slides](https://antoninschrab.github.io/files/Slides_Optimal.pdf)
+    * [Thesis:](https://discovery.ucl.ac.uk/id/eprint/10205846/1/Schrab_10205846_Thesis_Revised.pdf)
+      * [A Practical Introduction to Kernel Discrepancies: MMD, HSIC & KSD](https://arxiv.org/pdf/2503.04820.pdf)
+      * [Unified View of Optimal Kernel Hypothesis Testing](https://arxiv.org/pdf/2503.07084.pdf)
 
 <br>
 
