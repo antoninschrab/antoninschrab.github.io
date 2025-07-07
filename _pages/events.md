@@ -4,15 +4,25 @@ permalink: /events/
 author_profile: true
 ---
 
+* **[ISIPTA 2025: International Symposium on Imprecise Probabilities: Theories and Applications](https://isipta25.sipta.org/home)**
+  * 15 July--18 July 2025, Bielefeld, Germany
+  * [ZiF Center for Interdisciplinary Research, Bielefeld University](https://www.uni-bielefeld.de/__uuid/fcd0d2db-5ed3-45a1-b122-685b58074571/)
+  * **Credal Two-Sample Tests of Epistemic Uncertainty**
+    * Poster session *(presented by Siu Lun Chau)*
+    * [Paper](https://raw.githubusercontent.com/mlresearch/v258/main/assets/chau25a/chau25a.pdf)
+    * [Poster](https://antoninschrab.github.io/files/Poster_Credal.pdf)
+
+<br>
+
 * **[AISTATS 2025: International Conference on Artificial Intelligence and Statistics](https://aistats.org/aistats2025//)**
   * 3 May--5 May 2025, Mai Khao, Thailand
   * **Robust Kernel Hypothesis Testing under Data Corruption**
-    * Oral paper AISTATS 2025
+    * Oral paper AISTATS 2025 *(presented by Ilmun Kim)*
     * [Paper](https://raw.githubusercontent.com/mlresearch/v258/main/assets/schrab25a/schrab25a.pdf)
     * [Slides](https://antoninschrab.github.io/files/Slides_Robust.pdf)
     * [Poster](https://virtual.aistats.org/media/PosterPDFs/AISTATS%202025/10030.png?t=1745738694.111201)
   * **Credal Two-Sample Tests of Epistemic Uncertainty**
-    * Poster paper AISTATS 2025
+    * Poster paper AISTATS 2025 *(presented by Siu Lun Chau)*
     * [Paper](https://raw.githubusercontent.com/mlresearch/v258/main/assets/chau25a/chau25a.pdf)
     * [Poster](https://antoninschrab.github.io/files/Poster_Credal.pdf)
 
