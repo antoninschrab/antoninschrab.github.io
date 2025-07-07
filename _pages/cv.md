@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-* 2020--2024: [PhD in Foundational Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd)
+* 2020--2025: [PhD in Foundational Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd)
   * [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), UCL 
   * [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/), UCL
   * [Inria London](https://london.inria.fr)
