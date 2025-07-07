@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Antonin Schrab"
   avatar           : "antonin.jpg"
-  bio              : "Doctor in Foundational AI, UCL, AI Centre, Gatsby Unit"
+  bio              : "Doctor in Foundational AI"
   location         : 
   employer         : "London"
   googlescholar    : "https://scholar.google.com/citations?user=1IYG05YAAAAJ"
@@ -96,7 +96,7 @@ author:
   arxiv            : "https://arxiv.org/a/0000-0002-3218-8613"
   researchgate     : "https://www.researchgate.net/profile/Antonin_Schrab"
   hal              : "https://hal.archives-ouvertes.fr/search/index/?q=%2A&authFullName_s=Antonin+Schrab"
-  iris             : "https://iris.ucl.ac.uk/iris/browse/profile?upi=AFLSC02"
+  # iris             : "https://iris.ucl.ac.uk/iris/browse/profile?upi=AFLSC02"
   semanticscholar  : "https://www.semanticscholar.org/author/Antonin-Schrab/2135600197"
   # uclcs            : "http://www0.cs.ucl.ac.uk/people/A.Schrab.html"
   uclcs            : 
