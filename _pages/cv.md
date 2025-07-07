@@ -48,15 +48,9 @@ Statistics and Data Science](https://micromasters.mit.edu/ds/)
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1in9QJHbSa3IOENJd863nKFgfH0hKb5G7&ehbc=2E312F&z=13" width="544" height="408"></iframe>
 
-<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1KtVWF2yWQBzmfNnjNYFUxbj0itqdzJk&ehbc=2E312F&z=8" width="544" height="408"></iframe>
-
+<!--
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1KtVWF2yWQBzmfNnjNYFUxbj0itqdzJk&ehbc=2E312F&z=7" width="544" height="408"></iframe>
-
-<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1KtVWF2yWQBzmfNnjNYFUxbj0itqdzJk&ehbc=2E312F&z=6.5" width="544" height="408"></iframe>
-
-<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1KtVWF2yWQBzmfNnjNYFUxbj0itqdzJk&ehbc=2E312F&z=6" width="544" height="408"></iframe>
-
-<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1KtVWF2yWQBzmfNnjNYFUxbj0itqdzJk&ehbc=2E312F&z=5" width="544" height="408"></iframe>
+-->
 
 <br/>
 
