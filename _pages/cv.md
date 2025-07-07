@@ -30,8 +30,6 @@ Statistics and Data Science](https://micromasters.mit.edu/ds/)
 
 # Responsibilities
 
-<br>
-
 * 2020--2025: [UCL COMP0078 Supervised Learning](https://www.ucl.ac.uk/module-catalogue/modules/supervised-learning/COMP0078)
   * Lead Teaching Assistant
   * [Department of Computer Science](https://www.ucl.ac.uk/computer-science/)
