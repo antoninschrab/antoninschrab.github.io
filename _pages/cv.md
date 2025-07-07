@@ -32,7 +32,7 @@ Statistics and Data Science](https://micromasters.mit.edu/ds/)
 
 * 2020--2025: [UCL COMP0078 Supervised Learning](https://www.ucl.ac.uk/module-catalogue/modules/supervised-learning/COMP0078)
   * Lead Teaching Assistant
-  * [Computer Science](https://www.ucl.ac.uk/computer-science/), UCL
+  * [Department of Computer Science](https://www.ucl.ac.uk/computer-science/)
  
 * 2020--2024: [DeepMind/ELLIS CSML Seminar Series](https://ucl-ellis.github.io/jt_csml_seminar_home/)
   * Lead Organizer of the Weekly Seminar Series
