@@ -9,14 +9,17 @@ main:
   - title: "Events"
     url: /events/
     
-  - title: "Blog"
-    url: /blog/
-    
-  - title: "Teaching"
-    url: /teaching/   
-    
   - title: "CV"
     url: /cv/
+    
+  - title: "Interests"
+    url: /interests/   
+
+  # - title: "Teaching"
+  #   url: /teaching/  
+
+  # - title: "Blog"
+  #   url: /blog/
     
   # - title: "Contact"
   #  url: /contact/  
