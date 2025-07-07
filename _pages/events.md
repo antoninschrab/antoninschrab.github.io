@@ -7,8 +7,8 @@ author_profile: true
 * **[ISIPTA 2025: International Symposium on Imprecise Probabilities: Theories and Applications](https://isipta25.sipta.org/home)**
   * 15 July--18 July 2025, Bielefeld, Germany
   * [ZiF Center for Interdisciplinary Research, Bielefeld University](https://www.uni-bielefeld.de/__uuid/fcd0d2db-5ed3-45a1-b122-685b58074571/)
+  * Poster session *(presented by Siu Lun Chau)*
   * **Credal Two-Sample Tests of Epistemic Uncertainty**
-    * Poster session *(presented by Siu Lun Chau)*
     * [Paper](https://raw.githubusercontent.com/mlresearch/v258/main/assets/chau25a/chau25a.pdf)
     * [Poster](https://antoninschrab.github.io/files/Poster_Credal.pdf)
 
