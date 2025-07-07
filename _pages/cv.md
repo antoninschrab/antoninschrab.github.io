@@ -24,15 +24,17 @@ Statistics and Data Science](https://micromasters.mit.edu/ds/)
   * MITx, Massachusetts Institute of Technology (online)
 -->
 
-<br>
-
-<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1in9QJHbSa3IOENJd863nKFgfH0hKb5G7&ehbc=2E312F&z=13" width="544" height="408"></iframe>
 
 <br>
 
 * 2014--2018: [MMath in Mathematics](https://www.maths.ox.ac.uk/study-here/undergraduate-study/which-course/mathematics)
   * [Mathematical Institute](https://www.maths.ox.ac.uk), University of Oxford
   * [St Hilda's College](https://www.st-hildas.ox.ac.uk), University of Oxford
+
+
+<br>
+
+<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1in9QJHbSa3IOENJd863nKFgfH0hKb5G7&ehbc=2E312F&z=13" width="544" height="408"></iframe>
 
 <br/>
 
