@@ -8,12 +8,10 @@ redirect_from:
   - /home.html
 ---
 
-<br>
-
 <!--
-I am a Senior Research Associate at [Cambridge University](https://www.cam.ac.uk) ([Department of Computer Science and Technology](https://www.cst.cam.ac.uk)). 
+<br>I am a Senior Research Associate at [Cambridge University](https://www.cam.ac.uk) ([Department of Computer Science and Technology](https://www.cst.cam.ac.uk)). 
 -->
-I work on kernel hypothesis testing with applications to Machine Learning.
+<br>I work on kernel hypothesis testing with applications to Machine Learning.
 See [here](https://antoninschrab.github.io/interests/) for detailed research interests and [here](https://antoninschrab.github.io/bio/) for a short biography.
 
 I have completed my PhD on the [Foundational Artifical Intelligence CDT](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd) (2020-2025) at [University College London](https://www.ucl.ac.uk), supervised by [Benjamin Guedj](https://bguedj.github.io) at the [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) and [Inria London](https://london.inria.fr), and by [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/) at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
