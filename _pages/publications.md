@@ -18,7 +18,7 @@ author_profile: true
 * <i class="fa fa-fw fa-chain" style="color:#99cfde"></i> <a href="{{ site.author.iris }}"> UCL IRIS</a>
 -->
 
-The code for my publications is publicly available on:
+The code for my publications is publicly available [here](https://antoninschrab.github.io/software/) and on:
 * <i class="fa fa-fw fa-github" style="color:#6e5494"></i> <a href="https://github.com/antoninschrab"> Github</a>
 
 <br>
