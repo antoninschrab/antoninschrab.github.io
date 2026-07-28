@@ -7,7 +7,7 @@
   number = {194},
   pages = {1--81},
   abstract = {We propose two novel nonparametric two-sample kernel tests based on the Maximum Mean Discrepancy (MMD). First, for a fixed kernel, we construct an MMD test using either permutations or a wild bootstrap, two popular numerical procedures to determine the test threshold. We prove that this test controls the probability of type I error non-asymptotically. Hence, it can be used reliably even in settings with small sample sizes as it remains well-calibrated, which differs from previous MMD tests which only guarantee correct test level asymptotically. When the difference in densities lies in a Sobolev ball, we prove minimax optimality of our MMD test with a specific kernel depending on the smoothness parameter of the Sobolev ball. In practice, this parameter is unknown and, hence, the optimal MMD test with this particular kernel cannot be used. To overcome this issue, we construct an aggregated test, called MMDAgg, which is adaptive to the smoothness parameter. The test power is maximised over the collection of kernels used, without requiring held-out data for kernel selection (which results in a loss of test power), or arbitrary kernel choices such as the median heuristic. We prove that MMDAgg still controls the level non-asymptotically, and achieves the minimax rate over Sobolev balls, up to an iterated logarithmic term. Our guarantees are not restricted to a specific type of kernel, but hold for any product of one-dimensional translation invariant characteristic kernels. We provide a user-friendly parameter-free implementation of MMDAgg using an adaptive collection of bandwidths. We demonstrate that MMDAgg significantly outperforms alternative state-of-the-art MMD-based two-sample tests on synthetic data satisfying the Sobolev smoothness assumption, and that, on real-world image data, MMDAgg closely matches the power of tests leveraging the use of models such as neural networks.},
-  keywords = {Two-sample testing},
+  keywords = {Two-sample testing, Aggregation},
   url = {http://jmlr.org/papers/v24/21-1289.html},
   url_PDF = {https://jmlr.org/papers/volume24/21-1289/21-1289.pdf},
   url_Code_1 = {https://github.com/antoninschrab/mmdagg},
@@ -31,7 +31,7 @@
   volume = {36},
   year = {2022},
   abstract = {We investigate properties of goodness-of-fit tests based on the Kernel Stein Discrepancy (KSD). We introduce a strategy to construct a test, called KSDAgg, which aggregates multiple tests with different kernels. KSDAgg avoids splitting the data to perform kernel selection (which leads to a loss in test power), and rather maximises the test power over a collection of kernels. We provide theoretical guarantees on the power of KSDAgg: we show it achieves the smallest uniform separation rate of the collection, up to a logarithmic term. KSDAgg can be computed exactly in practice as it relies either on a parametric bootstrap or on a wild bootstrap to estimate the quantiles and the level corrections. In particular, for the crucial choice of bandwidth of a fixed kernel, it avoids resorting to arbitrary heuristics (such as median or standard deviation) or to data splitting. We find on both synthetic and real-world data that KSDAgg outperforms other state-of-the-art adaptive KSD-based goodness-of-fit testing procedures.},
-  keywords = {Goodness-of-fit testing},
+  keywords = {Goodness-of-fit testing, Aggregation},
   url = {https://proceedings.neurips.cc/paper_files/paper/2022/hash/d241a7b1499cee1bf40769ceade2444d-Abstract-Conference.html},
   url_PDF = {https://proceedings.neurips.cc/paper_files/paper/2022/file/d241a7b1499cee1bf40769ceade2444d-Paper-Conference.pdf},
   url_Supplemental = {https://proceedings.neurips.cc/paper_files/paper/2022/file/d241a7b1499cee1bf40769ceade2444d-Supplemental-Conference.pdf},
@@ -59,7 +59,7 @@
   volume = {36},
   year = {2022},
   abstract = {We propose a series of computationally efficient, nonparametric tests for the two-sample, independence and goodness-of-fit problems, using the Maximum Mean Discrepancy (MMD), Hilbert Schmidt Independence Criterion (HSIC), and Kernel Stein Discrepancy (KSD), respectively. Our test statistics are incomplete $U$-statistics, with a computational cost that interpolates between linear time in the number of samples, and quadratic time, as associated with classical $U$-statistic tests. The three proposed tests aggregate over several kernel bandwidths to detect departures from the null on various scales: we call the resulting tests MMDAggInc, HSICAggInc and KSDAggInc. For the test thresholds, we derive a quantile bound for wild bootstrapped incomplete $U$- statistics, which is of independent interest. We derive uniform separation rates for MMDAggInc and HSICAggInc, and quantify exactly the trade-off between computational efficiency and the attainable rates: this result is novel for tests based on incomplete $U$-statistics, to our knowledge. We further show that in the quadratic-time case, the wild bootstrap incurs no penalty to test power over more widespread permutation-based approaches, since both attain the same minimax optimal rates (which in turn match the rates that use oracle quantiles). We support our claims with numerical experiments on the trade-off between computational efficiency and test power. In the three testing frameworks, we observe that our proposed linear-time aggregated tests obtain higher power than current state-of-the-art linear-time kernel tests.},
-  keywords = {Two-sample testing, Independence testing, Goodness-of-fit testing, Efficiency},
+  keywords = {Two-sample testing, Independence testing, Goodness-of-fit testing, Efficiency, Aggregation},
   url = {https://proceedings.neurips.cc/paper_files/paper/2022/hash/774164b966cc277c82a960934445140d-Abstract-Conference.html},
   url_PDF = {https://proceedings.neurips.cc/paper_files/paper/2022/file/774164b966cc277c82a960934445140d-Paper-Conference.pdf},
   url_Supplemental = {https://proceedings.neurips.cc/paper_files/paper/2022/file/774164b966cc277c82a960934445140d-Supplemental-Conference.pdf},
@@ -116,11 +116,11 @@
   primaryClass = {stat.ML}
 }
 
-@unpublished{kim2023differentially,
-title = {Differentially Private Permutation Tests: {A}pplications to Kernel Methods}, 
+@article{kim2023differentially,
+title = {Differentially Private Permutation Tests}, 
 author = {Ilmun Kim and Antonin Schrab},
-year = {2023},
-note = "Arxiv preprint 2310.19043.",
+year = {2025},
+journal = {Journal of the American Statistical Association},
 abstract = {Recent years have witnessed growing concerns about the privacy of sensitive data. In response to these concerns, differential privacy has emerged as a rigorous framework for privacy protection, gaining widespread recognition in both academic and industrial circles. While substantial progress has been made in private data analysis, existing methods often suffer from impracticality or a significant loss of statistical efficiency. This paper aims to alleviate these concerns in the context of hypothesis testing by introducing differentially private permutation tests. The proposed framework extends classical non-private permutation tests to private settings, maintaining both finite-sample validity and differential privacy in a rigorous manner. The power of the proposed test depends on the choice of a test statistic, and we establish general conditions for consistency and non-asymptotic uniform power. To demonstrate the utility and practicality of our framework, we focus on reproducing kernel-based test statistics and introduce differentially private kernel tests for two-sample and independence testing: dpMMD and dpHSIC. The proposed kernel tests are straightforward to implement, applicable to various types of data, and attain minimax optimal power across different privacy regimes. Our empirical evaluations further highlight their competitive power under various synthetic and real-world scenarios, emphasizing their practical value. The code is publicly available to facilitate the implementation of our framework.},
 keywords = {Differential privacy, Two-sample testing, Independence testing},
 url = {https://arxiv.org/abs/2310.19043},
@@ -129,7 +129,8 @@ url_Code_1 = {https://github.com/antoninschrab/dpkernel},
 url_Code_2 = {https://github.com/antoninschrab/dpkernel-paper},
 eprint={2310.19043},
 archivePrefix={arXiv},
-primaryClass={math.ST}
+primaryClass={math.ST},
+note = {JASA 2025.}
 }
 
 @unpublished{pogodin2024practical,
@@ -204,7 +205,7 @@ primaryClass={math.ST}
 @unpublished{schrab2025unified,
   title={A Unified View of Optimal Kernel Hypothesis Testing},
   author={Schrab, Antonin},
-  keywords = {Two-sample testing, Independence testing, Goodness-of-fit testing, Robustness, Differential privacy, Efficiency},
+  keywords = {Two-sample testing, Independence testing, Goodness-of-fit testing, Robustness, Differential privacy, Efficiency, Aggregation},
   year={2025},
   note = "Arxiv preprint 2503.07084.",
   abstract = {This paper provides a unifying view of optimal kernel hypothesis testing across the MMD two-sample, HSIC independence, and KSD goodness-of-fit frameworks. Minimax optimal separation rates in the kernel and L2 metrics are presented, with two adaptive kernel selection methods (kernel pooling and aggregation), and under various testing constraints: computational efficiency, differential privacy, and robustness to data corruption. Intuition behind the derivation of the power results is provided in a unified way accross the three frameworks, and open problems are highlighted.},
@@ -230,6 +231,53 @@ primaryClass={math.ST}
   url_Code = {https://github.com/yeager20001118/MMD-HSIC-DUAL},
   eprint = {2510.11140},
   archivePrefix = {arXiv},
-  primaryClass = {cs.LG}
-  note = {NeurIPS 2025.},
+  primaryClass = {cs.LG},
+  note = {NeurIPS 2025.}
+}
+
+@article{ribero2026robust,
+  title = {Regularized $f$-Divergence Kernel Tests},
+  author = {Ribero, M{\'o}nica and Schrab, Antonin and Gretton, Arthur},
+  keywords = {Two-sample testing, Differential privacy, Machine unlearning},
+  year = {2026},
+  journal = {International Conference on Artificial Intelligence and Statistics},
+  volume = {29},
+  note = "AISTATS 2026.",
+  abstract = {We propose a framework to construct practical kernel-based two-sample tests from the family of f-divergences. The test statistic is computed from the witness function of a regularized variational representation of the divergence, which we estimate using kernel methods. The proposed test is adaptive over hyperparameters such as the kernel bandwidth and the regularization parameter. We provide theoretical guarantees for statistical test power across our family of f-divergence estimates. While our test covers a variety of f-divergences, we bring particular focus to the Hockey-Stick divergence, motivated by its applications to differential privacy auditing and machine unlearning evaluation. For two-sample testing, experiments demonstrate that different f-divergences are sensitive to different localized differences, illustrating the importance of leveraging diverse statistics. For machine unlearning, we propose a relative test that distinguishes true unlearning failures from safe distributional variations.},
+  url = {https://arxiv.org/abs/2601.19755},
+  url_PDF = {https://arxiv.org/pdf/2601.19755},
+  url_Poster = {https://antoninschrab.github.io/files/fdiv.pdf},
+  url_Code = {https://github.com/google-research/google-research/tree/master/f_divergence_tests},
+  eprint = {2601.19755},
+  archivePrefix = {arXiv},
+  primaryClass = {stat.ML}
+}
+
+@unpublished{cha2026more,
+  title={More Permutations Do Not Always Increase Power: Non-monotonicity in Monte Carlo Permutation Tests},
+  author={Cha, Suman and Lee, Seongchan and Schrab, Antonin and Kim, Ilmun},
+  keywords = {Two-sample testing, Independence testing},
+  year={2026},
+  note = "Arxiv preprint 2605.03886.",
+  abstract = {Monte Carlo permutation tests are a cornerstone of valid, model-free statistical inference. A widely held practical intuition is that increasing the number of sampled permutations improves test performance, in particular that statistical power tends to increase with the Monte Carlo budget. In this paper, we show that these intuitions are false in general. Leveraging the saw-toothed structure of power arising from distributional discreteness, we provide a simple structural explanation for why power can decrease as the number of sampled permutations increases, and we prove that such decreases occur infinitely often as the Monte Carlo budget grows.},
+  url = {https://arxiv.org/abs/2605.03886},
+  url_PDF = {https://arxiv.org/pdf/2605.03886},
+  eprint = {2605.03886},
+  archivePrefix = {arXiv},
+  primaryClass = {stat.CO}
+}
+
+@unpublished{schrab2026aggregation,
+  title={Aggregation of Statistical Evidence under Exchangeability},
+  author={Schrab, Antonin and Shah, Rajen and Gretton, Arthur and Kim, Ilmun},
+  keywords = {Two-sample testing, Independence testing, Aggregation},
+  year={2026},
+  note = "Arxiv preprint 2605.03886.",
+  abstract = {We study aggregation of statistical evidence under unknown and potentially complex dependence using group-invariance. Building on permutation-based constructions that treat transformed datasets as exchangeable units, we aggregate evidence across statistics for each transformed dataset and calibrate the resulting aggregates across transformations. We develop a finite-sample power and adaptivity theory for this framework, together with extensions to sequential and data-dependent aggregation that preserve validity. For single-batch aggregation, which uses one collection of transformed datasets for both standardization and calibration, we show that the critical values uniformly improve on deterministic calibrations valid under arbitrary dependence, including Bonferroni correction, while adapting to the unknown dependence structure. We also introduce a sequential alpha-spending version that permits early rejection when evidence is strong, and a two-batch extension that separates standardization from calibration to accommodate learned aggregation rules and reduce computation. Applications to adaptive nonparametric testing and conformal prediction illustrate how these results sharpen existing aggregation methods.},
+  url = {https://arxiv.org/abs/2605.03886},
+  url_PDF = {https://arxiv.org/pdf/2605.03886},
+  url_Code = {https://github.com/antoninschrab/sb-paper},
+  eprint = {2605.03886},
+  archivePrefix = {arXiv},
+  primaryClass = {stat.ME}
 }
