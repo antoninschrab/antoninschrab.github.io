@@ -13,7 +13,7 @@ author_profile: true
 * <i class="ai ai-fw ai-orcid" style="color:#a6ce39"></i> <a href="{{ site.author.orcid }}"> ORCID</a>
 * <i class="ai ai-fw ai-researchgate" style="color:#30CABB"></i> <a href="{{ site.author.researchgate }}"> ResearchGate</a>
 * <i class="ai ai-fw ai-semantic-scholar" style="color:#F2D168"></i> <a href="{{ site.author.semanticscholar }}"> Semantic Scholar</a>
-* <i class="fa fa-fw fa-barcode" style="color:#31CBCD"></i> <a href="{{ site.author.paperswithcode }}"> Papers With Code</a>
+<!--* <i class="fa fa-fw fa-barcode" style="color:#31CBCD"></i> <a href="{{ site.author.paperswithcode }}"> Papers With Code</a>-->
 
 The code for my publications is publicly available [here](https://antoninschrab.github.io/software/) and on:
 * <i class="fa fa-fw fa-github" style="color:#6e5494"></i> <a href="https://github.com/antoninschrab"> Github</a>
