@@ -6,6 +6,14 @@ redirect_from:
   - /resume
 ---
 
+* [sb](https://github.com/antoninschrab/sb-paper):
+  * General Permutation test: SB, TB, DDSB, SeqSB
+  * Two-sample test: MMDAgg-SB, MMDAgg-TB
+  * Independence test: HSICAgg-SB, HSICAgg-TB
+  * [Paper](https://arxiv.org/pdf/2607.15823)
+
+<br>
+
 * [dckernel](https://github.com/antoninschrab/dckernel): 
   * Two-sample test robust to data corruption: dcMMD
   * Independence test robust to data corruption: dcHSIC
