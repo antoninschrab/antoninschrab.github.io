@@ -4,6 +4,53 @@ permalink: /events/
 author_profile: true
 ---
 
+* [**ICML 2026: International Conference on Machine Learning**](https://icml.cc/Conferences/2026)
+  * 6--11 July 2026, Seoul, South Korea
+  * [Coex Convention & Exhibition Center](https://www.coexcenter.com)
+  * [ICML 2026 Hypothesis Testing Workshop](https://icml.cc/virtual/2026/workshop/54092)
+
+<br>
+
+* **[NTU Computing & Data Science Research Seminar](https://www.ntu.edu.sg/computing/news-events/events/detail/2026/06/29/default-calendar/optimal-kernel-hypothesis-testing-by-dr.-antonin-schrab)**
+  * 29 June 2026, Singapore
+  * [Nanyang Technological University Singapore](https://www.ntu.edu.sg/computing)
+  * **Optimal Kernel Hypothesis Testing**
+    * [MMD Aggregated Two-Sample Test](https://arxiv.org/pdf/2110.15073)
+    * [Aggregation of Statistical Evidence under Exchangeability](https://arxiv.org/pdf/2607.15823)
+  * [Slides](https://antoninschrab.github.io/files/Slides_mmdagg_sb.pdf)
+
+<br>
+
+* [**Google Research Blog Post**](https://research.google/blog/)
+  * 10 June 2026, Online
+  * **New Framework for Auditing Machine Unlearning**
+  * Blog post *(written by Mónica Ribero)*
+  * **Regularized f-Divergence Kernel Tests**
+    * [Blog](https://research.google/blog/new-framework-for-auditing-machine-unlearning/)
+    * [Paper](https://arxiv.org/pdf/2601.19755)
+    * [Poster](https://antoninschrab.github.io/files/fdiv.pdf)
+
+<br>
+
+* **[AISTATS 2026: International Conference on Artificial Intelligence and Statistics](https://aistats.org/aistats2026//)**
+  * 2 May--5 May 2026, Tangier, Morocco
+  * **Regularized f-Divergence Kernel Tests**
+    * Poster session *(presented by Mónica Ribero)*
+    * [Paper](https://arxiv.org/pdf/2601.19755)
+    * [Poster](https://antoninschrab.github.io/files/fdiv.pdf)
+
+<br>
+
+* **[NeurIPS 2025: Annual Conference on Neural Information Processing Systems](https://proceedings.neurips.cc/paper_files/paper/2025)**
+  * 2 December--7 December 2022, San Diego, USA
+  * Poster session *(presented by Zhijian Zhou and Xunye Tian)*
+  * **DUAL: Learning Diverse Kernels for Aggregated Two-sample and Independence Testing**
+    * [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/bd79f2aa0e6e27bcdf21e34b0b32c63b-Paper-Conference.pdf)
+    * [Video](https://neurips.cc/virtual/2025/loc/san-diego/poster/119284)
+    * [Slides](https://neurips.cc/virtual/2025/loc/san-diego/poster/119284)
+
+<br>
+
 * **[ISIPTA 2025: International Symposium on Imprecise Probabilities: Theories and Applications](https://isipta25.sipta.org/home)**
   * 15 July--18 July 2025, Bielefeld, Germany
   * [ZiF Center for Interdisciplinary Research, Bielefeld University](https://www.uni-bielefeld.de/__uuid/fcd0d2db-5ed3-45a1-b122-685b58074571/)
@@ -61,6 +108,12 @@ author_profile: true
     * [Unified View of Optimal Kernel Hypothesis Testing](https://arxiv.org/pdf/2503.07084.pdf)
   * [Thesis](https://discovery.ucl.ac.uk/id/eprint/10205846/1/Schrab_10205846_Thesis_Revised.pdf)
   * [Slides](https://antoninschrab.github.io/files/Slides_Optimal.pdf)
+
+<br>
+
+* **[AISTATS 2024: International Conference on Artificial Intelligence and Statistics](https://aistats.org/aistats2024//)**
+  * 2--4 May 2024, Valencia, Spain
+  * [Palau de Congressos de València](https://palcongres-vlc.com/en/)
 
 <br>
 
